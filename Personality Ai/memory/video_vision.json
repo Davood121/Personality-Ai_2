@@ -1,0 +1,970 @@
+{
+  "video_vision_skills": {
+    "frame_analysis": 0.33,
+    "motion_detection": 0.26,
+    "scene_understanding": 0.4,
+    "text_recognition": 0.34,
+    "object_tracking": 0.2,
+    "audio_processing": 0.1,
+    "content_comprehension": 0.3,
+    "real_time_learning": 0.23000000000000004
+  },
+  "video_understanding": {
+    "videos_watched": {
+      "video_-5749208834367268234_1753452939": {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "url": "demo_test_video.mp4",
+        "watched_at": "2025-07-25T19:45:39.936686",
+        "duration": 15.0,
+        "frames_analyzed": 30,
+        "comprehension_score": 0.42000000000000004,
+        "visual_summary": "Watched 15.0 second video, analyzing 30 frames. Found text in 4 frames (6 text regions). High motion content with average intensity 0.25.",
+        "scenes_count": 0,
+        "objects_detected": 0,
+        "text_instances": 4,
+        "motion_events": 29
+      },
+      "video_-222543147507425684_1753453119": {
+        "video_id": "video_-222543147507425684_1753453119",
+        "url": "simple_test_video.avi",
+        "watched_at": "2025-07-25T19:48:39.758669",
+        "duration": 5.0,
+        "frames_analyzed": 10,
+        "comprehension_score": 0.11000000000000001,
+        "visual_summary": "Watched 5.0 second video, analyzing 10 frames. Moderate motion with average intensity 0.02.",
+        "scenes_count": 0,
+        "objects_detected": 0,
+        "text_instances": 0,
+        "motion_events": 9
+      },
+      "video_-8079052020653262205_1753453476": {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "url": "C:\\Users\\shaik/Videos\\Captures\\shared_memory.json - Alpha-Ai-and-Beta-Ai-main - Visual Studio Code 2025-07-17 20-15-59.mp4",
+        "watched_at": "2025-07-25T19:54:36.717095",
+        "duration": 606.7083333333334,
+        "frames_analyzed": 120,
+        "comprehension_score": 0.45,
+        "visual_summary": "Watched 606.7 second video, analyzing 120 frames. Found text in 120 frames (1240 text regions). Moderate motion with average intensity 0.02.",
+        "scenes_count": 0,
+        "objects_detected": 0,
+        "text_instances": 120,
+        "motion_events": 5
+      }
+    },
+    "scenes_analyzed": [],
+    "objects_tracked": {},
+    "text_extracted": [
+      {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "timestamp": 9.5,
+        "text_content": "Text detected (1 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:45:39.936697"
+      },
+      {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "timestamp": 10.5,
+        "text_content": "Text detected (2 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:45:39.936701"
+      },
+      {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "timestamp": 12.0,
+        "text_content": "Text detected (2 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:45:39.936703"
+      },
+      {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "timestamp": 12.5,
+        "text_content": "Text detected (1 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:45:39.936705"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 0.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717116"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 0.5,
+        "text_content": "Text detected (8 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717120"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 1.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717123"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 1.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717125"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 2.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717127"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 2.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717129"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 3.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717131"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 3.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717132"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 4.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717134"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 4.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717136"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 5.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717137"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 5.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717139"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 6.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717141"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 6.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717142"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 7.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717145"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 7.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717146"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 8.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717148"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 8.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717149"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 9.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717151"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 9.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717152"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 10.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717154"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 10.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717156"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 11.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717157"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 11.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717159"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 12.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717160"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 12.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717162"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 13.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717163"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 13.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717165"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 14.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717166"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 14.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717168"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 15.0,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717170"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 15.5,
+        "text_content": "Text detected (11 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717171"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 16.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717173"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 16.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717175"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 17.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717176"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 17.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717178"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 18.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717179"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 18.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717181"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 19.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717183"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 19.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717185"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 20.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717186"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 20.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717188"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 21.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717190"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 21.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717191"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 22.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717193"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 22.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717195"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 23.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717197"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 23.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717198"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 24.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717199"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 24.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717201"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 25.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717203"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 25.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717204"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 26.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717205"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 26.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717207"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 27.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717208"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 27.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717210"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 28.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717211"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 28.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717213"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 29.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717214"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 29.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717216"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 30.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717217"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 30.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717220"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 31.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717222"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 31.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717223"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 32.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717225"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 32.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717226"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 33.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717228"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 33.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717229"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 34.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717230"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 34.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717232"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 35.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717233"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 35.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717235"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 36.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717236"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 36.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717239"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 37.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717241"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 37.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717242"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 38.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717244"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 38.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717245"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 39.0,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717246"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 39.5,
+        "text_content": "Text detected (9 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717248"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 40.0,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717249"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 40.5,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717251"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 41.0,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717252"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 41.5,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717254"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 42.0,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717255"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 42.5,
+        "text_content": "Text detected (17 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717257"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 43.0,
+        "text_content": "Text detected (18 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717258"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 43.5,
+        "text_content": "Text detected (18 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717260"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 44.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717261"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 44.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717263"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 45.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717265"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 45.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717266"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 46.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717268"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 46.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717269"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 47.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717270"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 47.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717272"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 48.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717273"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 48.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717275"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 49.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717276"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 49.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717278"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 50.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717279"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 50.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717280"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 51.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717282"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 51.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717283"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 52.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717285"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 52.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717287"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 53.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717288"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 53.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717290"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 54.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717291"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 54.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717293"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 55.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717294"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 55.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717295"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 56.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717297"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 56.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717298"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 57.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717300"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 57.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717301"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 58.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717303"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 58.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717304"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 59.0,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717305"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "timestamp": 59.5,
+        "text_content": "Text detected (10 regions)",
+        "confidence": 0.6,
+        "learned_at": "2025-07-25T19:54:36.717307"
+      }
+    ],
+    "motion_patterns": [
+      {
+        "video_id": "video_-5749208834367268234_1753452939",
+        "average_intensity": 0.2477141702586207,
+        "motion_events_count": 29,
+        "pattern_type": "high_motion",
+        "learned_at": "2025-07-25T19:45:39.936732"
+      },
+      {
+        "video_id": "video_-222543147507425684_1753453119",
+        "average_intensity": 0.01966435185185185,
+        "motion_events_count": 9,
+        "pattern_type": "low_motion",
+        "learned_at": "2025-07-25T19:48:39.758712"
+      },
+      {
+        "video_id": "video_-8079052020653262205_1753453476",
+        "average_intensity": 0.02426797385620915,
+        "motion_events_count": 5,
+        "pattern_type": "low_motion",
+        "learned_at": "2025-07-25T19:54:36.717335"
+      }
+    ],
+    "audio_insights": [],
+    "learning_moments": [
+      {
+        "type": "motion_analysis",
+        "insight": "Analyzed motion patterns with 0.25 average intensity",
+        "timestamp": "2025-07-25T19:45:39.936755"
+      },
+      {
+        "type": "motion_analysis",
+        "insight": "Analyzed motion patterns with 0.02 average intensity",
+        "timestamp": "2025-07-25T19:48:39.758741"
+      },
+      {
+        "type": "motion_analysis",
+        "insight": "Analyzed motion patterns with 0.02 average intensity",
+        "timestamp": "2025-07-25T19:54:36.717359"
+      }
+    ],
+    "visual_memories": []
+  },
+  "last_updated": "2025-07-26T12:27:23.487039"
+}

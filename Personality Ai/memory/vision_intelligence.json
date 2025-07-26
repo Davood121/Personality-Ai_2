@@ -1,0 +1,126 @@
+{
+  "vision_skills": {
+    "object_recognition": 0.45000000000000007,
+    "text_extraction": 0.4600000000000001,
+    "image_analysis": 0.56,
+    "visual_learning": 0.26,
+    "scene_understanding": 0.36000000000000004,
+    "color_analysis": 0.63,
+    "pattern_recognition": 0.4,
+    "visual_memory": 0.33
+  },
+  "visual_knowledge": {
+    "objects_seen": {
+      "nature_element": {
+        "first_seen": "2025-07-25T19:17:43.982453",
+        "count": 2,
+        "category": "nature",
+        "descriptions": [
+          "Natural element with green coloring",
+          "Natural element with green coloring"
+        ],
+        "web_research": {
+          "definitions": [
+            "The Mane Six are the main characters of the animated television series My Little Pony: Friendship Is Magic. The group consists of six pony friends: Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pi",
+            "The rare-earth elements (REE), also called the rare-earth metals or rare earths, and sometimes the lanthanides or lanthanoids, are a set of 17 nearly indistinguishable lustrous silvery-white soft heav"
+          ],
+          "characteristics": [],
+          "categories": [],
+          "confidence_score": 0.8166666666666667,
+          "sources_used": 6
+        }
+      },
+      "sky_or_water": {
+        "first_seen": "2025-07-25T19:18:02.360421",
+        "count": 1,
+        "category": "nature",
+        "descriptions": [
+          "Possible sky or water element"
+        ],
+        "web_research": {
+          "definitions": [
+            "A nimbostratus cloud is a multilevel, amorphous, nearly uniform, and often dark-grey cloud that usually produces continuous rain, snow, or sleet, but no lightning or thunder.",
+            "A fingerprint is an impression left by the friction ridges of a human finger. The recovery of partial fingerprints from a crime scene is an important method of forensic science. Moisture and grease on"
+          ],
+          "characteristics": [],
+          "categories": [],
+          "confidence_score": 0.8166666666666667,
+          "sources_used": 6
+        }
+      }
+    },
+    "text_extracted": [],
+    "scenes_analyzed": [],
+    "patterns_learned": [
+      {
+        "complexity_level": "high",
+        "sharpness_level": "soft",
+        "timestamp": "2025-07-25T19:17:43.982477"
+      },
+      {
+        "complexity_level": "high",
+        "sharpness_level": "soft",
+        "timestamp": "2025-07-25T19:18:02.360441"
+      },
+      {
+        "complexity_level": "high",
+        "sharpness_level": "soft",
+        "timestamp": "2025-07-25T19:18:18.036738"
+      }
+    ],
+    "color_associations": {
+      "green": {
+        "seen_count": 2,
+        "contexts": [
+          "Image with nature_element",
+          "Image with nature_element"
+        ]
+      },
+      "blue": {
+        "seen_count": 1,
+        "contexts": [
+          "Image with sky_or_water"
+        ]
+      }
+    },
+    "visual_memories": [
+      {
+        "type": "visual_analysis",
+        "timestamp": "2025-07-25T19:17:43.836476",
+        "image_path": "test_images/test_shapes.png",
+        "scene_description": "This is a 400x300 pixel image. with moderate lighting. featuring green colors. containing nature element. with readable text content.",
+        "objects_detected": [
+          "nature_element"
+        ],
+        "dominant_colors": [
+          "green"
+        ],
+        "text_content": "Text extraction capability - would use Tesseract OCR in full implementation",
+        "learning_insights": [
+          "Learned about nature_element in nature category",
+          "Associated green color with current context",
+          "Learned visual pattern: high complexity, soft sharpness"
+        ]
+      },
+      {
+        "type": "visual_analysis",
+        "timestamp": "2025-07-25T19:18:02.333018",
+        "image_path": "test_images/test_colors.png",
+        "scene_description": "This is a 300x200 pixel image. with moderate lighting. featuring blue colors. containing sky or water. with readable text content.",
+        "objects_detected": [
+          "sky_or_water"
+        ],
+        "dominant_colors": [
+          "blue"
+        ],
+        "text_content": "Text extraction capability - would use Tesseract OCR in full implementation",
+        "learning_insights": [
+          "Learned about sky_or_water in nature category",
+          "Associated blue color with current context",
+          "Learned visual pattern: high complexity, soft sharpness"
+        ]
+      }
+    ]
+  },
+  "last_updated": "2025-07-25T19:18:18.037922"
+}

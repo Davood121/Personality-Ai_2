@@ -1,0 +1,341 @@
+{
+  "cleanup_rules": {
+    "cache_files": {
+      "enabled": true,
+      "frequency_hours": 6,
+      "patterns": [
+        "__pycache__",
+        "*.pyc",
+        "*.pyo",
+        "*.pyd"
+      ],
+      "last_cleanup": "2025-07-26T12:18:33.599208"
+    },
+    "temp_files": {
+      "enabled": true,
+      "frequency_hours": 12,
+      "patterns": [
+        "*.tmp",
+        "*.temp",
+        "*~",
+        ".DS_Store"
+      ],
+      "last_cleanup": "2025-07-26T12:18:33.659674"
+    },
+    "log_rotation": {
+      "enabled": true,
+      "frequency_hours": 24,
+      "max_log_files": 10,
+      "max_log_size_mb": 50,
+      "last_cleanup": "2025-07-26T12:18:33.660993"
+    },
+    "duplicate_detection": {
+      "enabled": true,
+      "frequency_hours": 48,
+      "auto_remove": false,
+      "last_cleanup": null
+    },
+    "memory_optimization": {
+      "enabled": true,
+      "frequency_hours": 24,
+      "max_memory_entries": 1000,
+      "compress_old_data": true,
+      "last_cleanup": "2025-07-26T12:18:33.814735"
+    }
+  },
+  "cleanup_history": [
+    {
+      "timestamp": "2025-07-24T21:08:29.347453",
+      "results": [
+        {
+          "type": "cache_files",
+          "timestamp": "2025-07-24T21:08:29.164386",
+          "items_cleaned": 1,
+          "items": [
+            "__pycache__"
+          ],
+          "success": true
+        },
+        {
+          "type": "temp_files",
+          "timestamp": "2025-07-24T21:08:29.204117",
+          "items_cleaned": 3,
+          "items": [
+            "temp_file.tmp",
+            "another_temp.temp",
+            "backup_file~"
+          ],
+          "success": true
+        },
+        {
+          "type": "log_rotation",
+          "timestamp": "2025-07-24T21:08:29.206279",
+          "actions_taken": 0,
+          "actions": [],
+          "success": true
+        },
+        {
+          "type": "memory_optimization",
+          "timestamp": "2025-07-24T21:08:29.347444",
+          "files_optimized": 0,
+          "optimizations": [],
+          "success": true
+        }
+      ],
+      "total_actions": 4
+    },
+    {
+      "timestamp": "2025-07-24T21:08:29.690504",
+      "results": [
+        {
+          "type": "cache_files",
+          "timestamp": "2025-07-24T21:08:29.389979",
+          "items_cleaned": 0,
+          "items": [],
+          "success": true
+        },
+        {
+          "type": "temp_files",
+          "timestamp": "2025-07-24T21:08:29.426021",
+          "items_cleaned": 0,
+          "items": [],
+          "success": true
+        },
+        {
+          "type": "log_rotation",
+          "timestamp": "2025-07-24T21:08:29.427056",
+          "actions_taken": 0,
+          "actions": [],
+          "success": true
+        },
+        {
+          "type": "memory_optimization",
+          "timestamp": "2025-07-24T21:08:29.690495",
+          "files_optimized": 0,
+          "optimizations": [],
+          "success": true
+        }
+      ],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T21:08:46.195537",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:10:59.413983",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:12:37.071634",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:14:25.741930",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:22:11.244402",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:28:02.804769",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:32:23.960698",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:33:12.285049",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:36:06.337261",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:39:38.162540",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:41:29.869229",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:43:13.864253",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:45:43.702893",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:50:11.411017",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-24T22:52:41.667422",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:17:43.650632",
+      "results": [
+        {
+          "type": "cache_files",
+          "timestamp": "2025-07-25T19:17:43.552020",
+          "items_cleaned": 1,
+          "items": [
+            "__pycache__"
+          ],
+          "success": true
+        },
+        {
+          "type": "temp_files",
+          "timestamp": "2025-07-25T19:17:43.650610",
+          "items_cleaned": 0,
+          "items": [],
+          "success": true
+        }
+      ],
+      "total_actions": 1
+    },
+    {
+      "timestamp": "2025-07-25T19:31:02.791055",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:32:36.882923",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:43:45.409077",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:45:39.185032",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:48:39.613434",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T19:54:09.107672",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:02:55.843312",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:09:01.120811",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:11:00.969417",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:13:13.917883",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:16:35.799774",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:36:12.818087",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:37:17.153280",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:41:33.509203",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:42:09.228965",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-25T20:42:38.847242",
+      "results": [],
+      "total_actions": 0
+    },
+    {
+      "timestamp": "2025-07-26T12:18:33.814754",
+      "results": [
+        {
+          "type": "cache_files",
+          "timestamp": "2025-07-26T12:18:33.599218",
+          "items_cleaned": 1,
+          "items": [
+            "__pycache__"
+          ],
+          "success": true
+        },
+        {
+          "type": "temp_files",
+          "timestamp": "2025-07-26T12:18:33.659682",
+          "items_cleaned": 0,
+          "items": [],
+          "success": true
+        },
+        {
+          "type": "log_rotation",
+          "timestamp": "2025-07-26T12:18:33.661002",
+          "actions_taken": 0,
+          "actions": [],
+          "success": true
+        },
+        {
+          "type": "memory_optimization",
+          "timestamp": "2025-07-26T12:18:33.814745",
+          "files_optimized": 0,
+          "optimizations": [],
+          "success": true
+        }
+      ],
+      "total_actions": 1
+    },
+    {
+      "timestamp": "2025-07-26T12:48:33.824483",
+      "results": [],
+      "total_actions": 0
+    }
+  ],
+  "last_updated": "2025-07-26T12:48:33.826024"
+}

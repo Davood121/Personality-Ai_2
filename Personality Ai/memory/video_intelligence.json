@@ -1,0 +1,176 @@
+{
+  "video_skills": {
+    "video_search": 0.6200000000000002,
+    "content_analysis": 0.3,
+    "topic_understanding": 0.6100000000000001,
+    "learning_extraction": 0.3,
+    "trend_analysis": 0.2,
+    "quality_assessment": 0.4,
+    "recommendation": 0.3,
+    "knowledge_synthesis": 0.4
+  },
+  "video_knowledge": {
+    "videos_watched": {
+      "youtube_4369870782726501959": {
+        "title": "Introduction to Artificial Intelligence - Complete Tutorial",
+        "channel": "AI Academy",
+        "platform": "youtube",
+        "category": "educational",
+        "analyzed_at": "2025-07-25T19:33:02.957747",
+        "educational_value": 1.0,
+        "learning_insights": [
+          "Discovered educational content on youtube",
+          "Video length category: long",
+          "Found 5 related definitions online"
+        ],
+        "related_topics": [
+          "lecture",
+          "course",
+          "lesson",
+          "explanation"
+        ]
+      }
+    },
+    "topics_explored": {
+      "educational": {
+        "first_searched": "2025-07-25T19:31:04.648156",
+        "search_count": 3,
+        "videos_found": 9,
+        "preferred_platforms": {
+          "all": 9
+        }
+      },
+      "technology": {
+        "first_searched": "2025-07-25T19:31:06.366229",
+        "search_count": 4,
+        "videos_found": 12,
+        "preferred_platforms": {
+          "all": 12
+        }
+      },
+      "general": {
+        "first_searched": "2025-07-25T19:31:09.384973",
+        "search_count": 4,
+        "videos_found": 12,
+        "preferred_platforms": {
+          "all": 12
+        }
+      }
+    },
+    "channels_discovered": {
+      "Unknown Channel": {
+        "first_discovered": "2025-07-25T19:31:04.648160",
+        "videos_seen": 11,
+        "categories": [
+          "educational",
+          "technology",
+          "general",
+          "creative"
+        ],
+        "platform": "youtube"
+      },
+      "Creator1": {
+        "first_discovered": "2025-07-25T19:31:04.648165",
+        "videos_seen": 11,
+        "categories": [
+          "educational",
+          "technology",
+          "general"
+        ],
+        "platform": "vimeo"
+      },
+      "DailyCreator1": {
+        "first_discovered": "2025-07-25T19:31:04.648168",
+        "videos_seen": 11,
+        "categories": [
+          "educational",
+          "technology",
+          "general"
+        ],
+        "platform": "dailymotion"
+      }
+    },
+    "learning_insights": [],
+    "search_history": [
+      {
+        "query": "artificial intelligence tutorial",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:31:04.648760",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "machine learning explained",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:31:06.368592",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "python programming",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:31:07.916231",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "how AI works",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:31:09.385588",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "technology trends",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:31:10.876932",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "artificial intelligence tutorial",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:32:38.531458",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "machine learning explained",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:32:40.543903",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "python programming",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:32:42.147067",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "how AI works",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:32:43.812213",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "technology trends",
+        "platform": "all",
+        "timestamp": "2025-07-25T19:32:45.509210",
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "artificial intelligence tutorial",
+        "platform": "all",
+        "timestamp": "2025-07-25T20:16:48.918590",
+        "results_count": 3,
+        "success": true
+      }
+    ],
+    "preferences_learned": {}
+  },
+  "last_updated": "2025-07-25T20:16:48.922037"
+}

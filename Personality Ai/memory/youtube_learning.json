@@ -1,0 +1,52 @@
+{
+  "learning_skills": {
+    "video_comprehension": 0.3,
+    "concept_extraction": 0.2,
+    "knowledge_synthesis": 0.4,
+    "autonomous_learning": 0.12,
+    "topic_discovery": 0.3,
+    "content_evaluation": 0.2,
+    "self_improvement": 0.12,
+    "pattern_recognition": 0.3
+  },
+  "youtube_knowledge": {
+    "videos_learned_from": {
+      "aircAruvnKk": {
+        "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+        "title": "Unknown Video",
+        "learned_at": "2025-07-25T20:02:55.867559",
+        "concepts_learned": [],
+        "knowledge_gained": [],
+        "comprehension_score": 0.0,
+        "learning_value": 0.0,
+        "category": "educational"
+      },
+      "0rinumt3nc4": {
+        "url": "https://youtu.be/0rinumt3nc4?si=mtw-izjd81nt0xvi",
+        "title": "Unknown Video",
+        "learned_at": "2025-07-26T12:27:12.631755",
+        "concepts_learned": [],
+        "knowledge_gained": [],
+        "comprehension_score": 0.0,
+        "learning_value": 0.0,
+        "category": "educational"
+      }
+    },
+    "concepts_discovered": {},
+    "learning_topics": {
+      "educational": {
+        "videos_watched": 2,
+        "total_comprehension": 0.0,
+        "concepts_learned": [],
+        "last_updated": "2025-07-26T12:27:40.251611"
+      }
+    },
+    "autonomous_searches": [],
+    "improvement_milestones": [],
+    "favorite_channels": {},
+    "learning_queue": [],
+    "failed_attempts": []
+  },
+  "cycle_count": 0,
+  "last_updated": "2025-07-26T12:27:40.252568"
+}

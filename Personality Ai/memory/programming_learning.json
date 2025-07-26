@@ -1,0 +1,609 @@
+{
+  "programming_knowledge": {
+    "variables": {
+      "learned_date": "2025-07-23T23:21:41.023113",
+      "skill_level": 1.0,
+      "description": "x = 5, data types (int, str, float)",
+      "examples": [
+        "x = 5",
+        "name = \"AI\"",
+        "pi = 3.14"
+      ],
+      "difficulty": 1,
+      "learning_boost": 0.3514151221982162
+    },
+    "operators": {
+      "learned_date": "2025-07-23T23:21:42.072117",
+      "skill_level": 1.0,
+      "description": "+, -, *, /, ==, !=, logical operators",
+      "examples": [
+        "x + y",
+        "a == b",
+        "not False"
+      ],
+      "difficulty": 1,
+      "learning_boost": 0.6450963145301226
+    },
+    "input_output": {
+      "learned_date": "2025-07-23T23:21:43.102597",
+      "skill_level": 1.0,
+      "description": "input(), print()",
+      "examples": [
+        "print(\"Hello\")",
+        "name = input(\"Name: \")"
+      ],
+      "difficulty": 1,
+      "learning_boost": 0.6055137282715609
+    },
+    "conditional_logic": {
+      "learned_date": "2025-07-23T23:21:44.130338",
+      "skill_level": 1.0,
+      "description": "if, elif, else",
+      "examples": [
+        "if x > 5:",
+        "elif x == 5:",
+        "else:"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.6088504641250664
+    },
+    "loop_functions": {
+      "learned_date": "2025-07-23T23:21:45.154820",
+      "skill_level": 1.0,
+      "description": "for, while, break, continue",
+      "examples": [
+        "for i in range(10):",
+        "while True:",
+        "break"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.5813298075679924
+    },
+    "functions": {
+      "learned_date": "2025-07-23T23:21:46.179087",
+      "skill_level": 1.0,
+      "description": "def, parameters, return values",
+      "examples": [
+        "def hello():",
+        "def add(a, b):",
+        "return result"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.6504815653627265
+    },
+    "lists_tuples": {
+      "learned_date": "2025-07-23T23:21:47.217600",
+      "skill_level": 1.0,
+      "description": "Indexing, slicing, loops with lists",
+      "examples": [
+        "[1, 2, 3]",
+        "list[0]",
+        "list[1:3]"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.5584006334591151
+    },
+    "dictionaries": {
+      "learned_date": "2025-07-23T23:21:48.264451",
+      "skill_level": 0.9974277126884767,
+      "description": "Key-value pairs, lookups, updates",
+      "examples": [
+        "{\"key\": \"value\"}",
+        "dict[\"key\"]",
+        "dict.update()"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.4974277126884768
+    },
+    "string_operations": {
+      "learned_date": "2025-07-23T23:21:49.295874",
+      "skill_level": 0.9923231749801591,
+      "description": ".split(), .join(), .replace()",
+      "examples": [
+        "text.split()",
+        "\",\".join(list)",
+        "text.replace(\"a\", \"b\")"
+      ],
+      "difficulty": 2,
+      "learning_boost": 0.4923231749801591
+    },
+    "file_handling": {
+      "learned_date": "2025-07-23T23:21:50.321040",
+      "skill_level": 0.954724203798027,
+      "description": "open(), read(), write(), with block",
+      "examples": [
+        "open(\"file.txt\")",
+        "with open() as f:",
+        "f.read()"
+      ],
+      "difficulty": 3,
+      "learning_boost": 0.454724203798027
+    },
+    "error_handling": {
+      "learned_date": "2025-07-23T23:22:20.815168",
+      "skill_level": 1.0,
+      "description": "try, except, finally",
+      "examples": [
+        "try:",
+        "except Exception:",
+        "finally:"
+      ],
+      "difficulty": 3,
+      "learning_boost": 0.49219721929735977
+    },
+    "recursion": {
+      "learned_date": "2025-07-24T22:12:37.123793",
+      "skill_level": 0.7065772817334866,
+      "description": "",
+      "examples": [],
+      "difficulty": 5,
+      "learning_boost": 0.1663665981789032
+    },
+    "lambda_functions": {
+      "learned_date": "2025-07-24T22:12:37.128653",
+      "skill_level": 0.6219492623761911,
+      "description": "",
+      "examples": [],
+      "difficulty": 5,
+      "learning_boost": 0.1617493818461842
+    },
+    "comprehensions": {
+      "learned_date": "2025-07-24T22:12:37.135385",
+      "skill_level": 0.6400645310723027,
+      "description": "",
+      "examples": [],
+      "difficulty": 5,
+      "learning_boost": 0.17720198332370643
+    },
+    "modules_imports": {
+      "learned_date": "2025-07-23T23:22:25.916326",
+      "skill_level": 0.8225478764751595,
+      "description": "import math, os, random",
+      "examples": [
+        "import os",
+        "from math import pi",
+        "import random as r"
+      ],
+      "difficulty": 3,
+      "learning_boost": 0.3979340840171049
+    },
+    "pip_libraries": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "pip_libraries",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "time_date": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "time_date",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "regex": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "regex",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "command_line_args": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "command_line_args",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "oop": {
+      "learned_date": "2025-07-23T23:22:21.836743",
+      "skill_level": 0.889530725710648,
+      "description": "class, __init__, inheritance",
+      "examples": [
+        "class MyClass:",
+        "def __init__(self):",
+        "super()"
+      ],
+      "difficulty": 4,
+      "learning_boost": 0.38440086573209026
+    },
+    "numpy": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "numpy",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "pandas": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "pandas",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "matplotlib": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "matplotlib",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "ml_basics": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "ml_basics",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "scikit_learn": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "scikit_learn",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "data_preprocessing": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "data_preprocessing",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "face_recognition": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "face_recognition",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "speech_recognition": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "speech_recognition",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "emotion_detection": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "emotion_detection",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "chatbot_basics": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "chatbot_basics",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "neural_networks": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "neural_networks",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "deep_learning": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "deep_learning",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "reinforcement_learning": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "reinforcement_learning",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "nlp_transformers": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "nlp_transformers",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "self_learning_ai": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "self_learning_ai",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "text_to_speech": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "text_to_speech",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "voice_cloning": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "voice_cloning",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "self_coding_ai": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "Modify own code using ast, exec()",
+      "examples": [
+        "ast.parse(code)",
+        "exec(dynamic_code)",
+        "inspect.getsource()"
+      ],
+      "difficulty": 8,
+      "accelerated": true
+    },
+    "auto_update_learning": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "Saving past chats, responses, corrections",
+      "examples": [
+        "feedback_loop()",
+        "update_responses()",
+        "learn_from_mistakes()"
+      ],
+      "difficulty": 7,
+      "accelerated": true
+    },
+    "multi_agent_systems": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "multi_agent_systems",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "apis_web_scraping": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "apis_web_scraping",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "cloud_databases": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "cloud_databases",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "security_encryption": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "security_encryption",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "web_backend": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "web_backend",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "deployment": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "deployment",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "docker_os": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "docker_os",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "multimodal_ai": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "multimodal_ai",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "app_deployment": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "app_deployment",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "gui_development": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "gui_development",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    },
+    "logging_debugging": {
+      "learned_date": "2024-01-01T00:00:00",
+      "skill_level": 0.85,
+      "description": "logging_debugging",
+      "examples": [],
+      "difficulty": 5,
+      "accelerated": true
+    }
+  },
+  "coding_skills": {
+    "variables": 1.0,
+    "operators": 1.0,
+    "input_output": 1.0,
+    "conditional_logic": 1.0,
+    "loop_functions": 1.0,
+    "functions": 1.0,
+    "lists_tuples": 1.0,
+    "dictionaries": 0.9974277126884767,
+    "string_operations": 0.9923231749801591,
+    "file_handling": 0.954724203798027,
+    "error_handling": 1.0,
+    "oop": 0.889530725710648,
+    "recursion": 0.7065772817334866,
+    "lambda_functions": 0.6219492623761911,
+    "comprehensions": 0.6400645310723027,
+    "modules_imports": 0.8225478764751595,
+    "pip_libraries": 0.85,
+    "time_date": 0.85,
+    "regex": 0.85,
+    "command_line_args": 0.85,
+    "numpy": 0.85,
+    "pandas": 0.85,
+    "matplotlib": 0.85,
+    "ml_basics": 0.85,
+    "scikit_learn": 0.85,
+    "data_preprocessing": 0.85,
+    "face_recognition": 0.85,
+    "speech_recognition": 0.85,
+    "emotion_detection": 0.85,
+    "chatbot_basics": 0.85,
+    "neural_networks": 0.85,
+    "deep_learning": 0.85,
+    "reinforcement_learning": 0.85,
+    "nlp_transformers": 0.85,
+    "self_learning_ai": 0.85,
+    "text_to_speech": 0.85,
+    "voice_cloning": 0.85,
+    "self_coding_ai": 0.85,
+    "auto_update_learning": 0.85,
+    "multi_agent_systems": 0.85,
+    "apis_web_scraping": 0.85,
+    "cloud_databases": 0.85,
+    "security_encryption": 0.85,
+    "web_backend": 0.85,
+    "deployment": 0.85,
+    "docker_os": 0.85,
+    "multimodal_ai": 0.85,
+    "app_deployment": 0.85,
+    "gui_development": 0.85,
+    "logging_debugging": 0.85
+  },
+  "learning_progress": {
+    "phase_1_beginner": {
+      "completed": true,
+      "topics_learned": [
+        "variables",
+        "operators",
+        "input_output",
+        "conditional_logic",
+        "loop_functions",
+        "functions",
+        "lists_tuples",
+        "dictionaries",
+        "string_operations",
+        "file_handling"
+      ],
+      "completion_date": "2024-01-01T00:00:00",
+      "success_rate": 1.0,
+      "accelerated": true
+    },
+    "phase_2_intermediate": {
+      "completed": true,
+      "topics_learned": [
+        "error_handling",
+        "oop",
+        "recursion",
+        "lambda_functions",
+        "comprehensions",
+        "modules_imports",
+        "pip_libraries",
+        "time_date",
+        "regex",
+        "command_line_args"
+      ],
+      "completion_date": "2024-01-01T00:00:00",
+      "success_rate": 1.0,
+      "accelerated": true
+    },
+    "phase_3_ai_data": {
+      "completed": true,
+      "topics_learned": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "ml_basics",
+        "scikit_learn",
+        "data_preprocessing",
+        "face_recognition",
+        "speech_recognition",
+        "emotion_detection",
+        "chatbot_basics"
+      ],
+      "completion_date": "2024-01-01T00:00:00",
+      "success_rate": 1.0,
+      "accelerated": true
+    },
+    "phase_4_advanced": {
+      "completed": true,
+      "topics_learned": [
+        "neural_networks",
+        "deep_learning",
+        "reinforcement_learning",
+        "nlp_transformers",
+        "self_learning_ai",
+        "text_to_speech",
+        "voice_cloning",
+        "self_coding_ai",
+        "auto_update_learning",
+        "multi_agent_systems"
+      ],
+      "completion_date": "2024-01-01T00:00:00",
+      "success_rate": 1.0,
+      "accelerated": true
+    },
+    "phase_5_integration": {
+      "completed": true,
+      "topics_learned": [
+        "apis_web_scraping",
+        "cloud_databases",
+        "security_encryption",
+        "web_backend",
+        "deployment",
+        "docker_os",
+        "multimodal_ai",
+        "app_deployment",
+        "gui_development",
+        "logging_debugging"
+      ],
+      "completion_date": "2024-01-01T00:00:00",
+      "success_rate": 1.0,
+      "accelerated": true
+    }
+  },
+  "projects_completed": [],
+  "last_updated": "2025-07-24T22:12:37.599729"
+}

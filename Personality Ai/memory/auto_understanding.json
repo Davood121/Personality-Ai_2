@@ -1,0 +1,37 @@
+{
+  "question_patterns": {
+    "philosophical": [
+      "csciousness?"
+    ]
+  },
+  "topic_knowledge": {
+    "philosophical": {
+      "philosophy of mind": {
+        "first_learned": "2025-07-23T22:54:30.267189",
+        "learning_count": 1,
+        "success_rate": 1.0,
+        "successes": 1
+      },
+      "consciousness": {
+        "first_learned": "2025-07-23T22:54:30.267203",
+        "learning_count": 1,
+        "success_rate": 1.0,
+        "successes": 1
+      }
+    }
+  },
+  "auto_search_history": [
+    {
+      "timestamp": "2025-07-23T22:54:30.267128",
+      "question": "what is consciousness?",
+      "question_type": "philosophical",
+      "topics_learned": [
+        "philosophy of mind",
+        "consciousness"
+      ],
+      "success": true,
+      "learning_trigger": "auto_understanding"
+    }
+  ],
+  "last_updated": "2025-07-23T22:54:30.267480"
+}

@@ -1,0 +1,5609 @@
+[
+  {
+    "question": "How can understanding personality development help people?",
+    "topic": "personality development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:12:20.921703",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality development?",
+    "topic": "personality development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:12:20.921703",
+    "answered": false
+  },
+  {
+    "question": "How is personality traits applied in therapy or counseling?",
+    "topic": "personality traits",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:13:08.520044",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality traits?",
+    "topic": "personality traits",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:13:08.520044",
+    "answered": false
+  },
+  {
+    "question": "Where do we see personality traits in everyday situations?",
+    "topic": "personality traits",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:13:08.520044",
+    "answered": false
+  },
+  {
+    "question": "How is behavioral psychology used in real life?",
+    "topic": "behavioral psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:14:12.700255",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of interpersonal skills?",
+    "topic": "interpersonal skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:14:42.373057",
+    "answered": false
+  },
+  {
+    "question": "How would you define personality psychology?",
+    "topic": "personality psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:15:10.588599",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality psychology in simple terms?",
+    "topic": "personality psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:15:10.588599",
+    "answered": false
+  },
+  {
+    "question": "How is personality psychology formed or developed?",
+    "topic": "personality psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:15:10.588599",
+    "answered": false
+  },
+  {
+    "question": "How is human behavior patterns formed or developed?",
+    "topic": "human behavior patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:16:20.320605",
+    "answered": false
+  },
+  {
+    "question": "How can understanding human behavior patterns help people?",
+    "topic": "human behavior patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:16:20.320605",
+    "answered": false
+  },
+  {
+    "question": "How is human behavior patterns used in real life?",
+    "topic": "human behavior patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:16:20.320605",
+    "answered": false
+  },
+  {
+    "question": "Where do we see human behavior patterns in everyday situations?",
+    "topic": "human behavior patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:16:20.320605",
+    "answered": false
+  },
+  {
+    "question": "How is social interaction formed or developed?",
+    "topic": "social interaction",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:18:16.090701",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social interaction in simple terms?",
+    "topic": "social interaction",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:18:16.090701",
+    "answered": false
+  },
+  {
+    "question": "What does cognitive patterns mean in psychology?",
+    "topic": "cognitive patterns",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:19:07.865279",
+    "answered": false
+  },
+  {
+    "question": "What causes cognitive patterns?",
+    "topic": "cognitive patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:19:07.865279",
+    "answered": false
+  },
+  {
+    "question": "How does cognitive patterns work?",
+    "topic": "cognitive patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:19:07.865279",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of cognitive patterns?",
+    "topic": "cognitive patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:19:07.865279",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive patterns applied in therapy or counseling?",
+    "topic": "cognitive patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:19:07.865279",
+    "answered": false
+  },
+  {
+    "question": "How is communication styles used in real life?",
+    "topic": "communication styles",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:20:57.303931",
+    "answered": false
+  },
+  {
+    "question": "What does communication styles mean in psychology?",
+    "topic": "communication styles",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:20:57.303931",
+    "answered": false
+  },
+  {
+    "question": "How is communication styles applied in therapy or counseling?",
+    "topic": "communication styles",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:20:57.303931",
+    "answered": false
+  },
+  {
+    "question": "How would you define communication styles?",
+    "topic": "communication styles",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:20:57.303931",
+    "answered": false
+  },
+  {
+    "question": "What does emotional intelligence mean in psychology?",
+    "topic": "emotional intelligence",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:22:32.126392",
+    "answered": false
+  },
+  {
+    "question": "Where do we see emotional intelligence in everyday situations?",
+    "topic": "emotional intelligence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:22:32.126392",
+    "answered": false
+  },
+  {
+    "question": "How can understanding emotional intelligence help people?",
+    "topic": "emotional intelligence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:22:32.126392",
+    "answered": false
+  },
+  {
+    "question": "Can you explain emotional intelligence in simple terms?",
+    "topic": "emotional intelligence",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:22:32.126392",
+    "answered": false
+  },
+  {
+    "question": "How can understanding personality assessment methods help people?",
+    "topic": "personality assessment methods",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:24:08.383503",
+    "answered": false
+  },
+  {
+    "question": "How is personality assessment methods applied in therapy or counseling?",
+    "topic": "personality assessment methods",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:24:08.383503",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality assessment methods in simple terms?",
+    "topic": "personality assessment methods",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:24:08.383503",
+    "answered": false
+  },
+  {
+    "question": "How is personality assessment methods used in real life?",
+    "topic": "personality assessment methods",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:24:08.383503",
+    "answered": false
+  },
+  {
+    "question": "How does personality assessment methods work?",
+    "topic": "personality assessment methods",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:24:08.383503",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality change over time?",
+    "topic": "personality change over time",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:26:16.958549",
+    "answered": false
+  },
+  {
+    "question": "How can understanding personality change over time help people?",
+    "topic": "personality change over time",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:26:16.958549",
+    "answered": false
+  },
+  {
+    "question": "What does personality change over time mean in psychology?",
+    "topic": "personality change over time",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:26:16.958549",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality change over time?",
+    "topic": "personality change over time",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:26:16.958549",
+    "answered": false
+  },
+  {
+    "question": "How does personality change over time work?",
+    "topic": "personality change over time",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:26:16.958549",
+    "answered": false
+  },
+  {
+    "question": "What does personality in leadership mean in psychology?",
+    "topic": "personality in leadership",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:28:19.790270",
+    "answered": false
+  },
+  {
+    "question": "How is personality in leadership used in real life?",
+    "topic": "personality in leadership",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:28:19.790270",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of personality in leadership?",
+    "topic": "personality in leadership",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:28:19.790270",
+    "answered": false
+  },
+  {
+    "question": "What causes personality in leadership?",
+    "topic": "personality in leadership",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:28:19.790270",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality and mental health in simple terms?",
+    "topic": "personality and mental health",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:29:53.884356",
+    "answered": false
+  },
+  {
+    "question": "What is personality and mental health?",
+    "topic": "personality and mental health",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:29:53.884356",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality in relationships?",
+    "topic": "personality in relationships",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:30:37.608159",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of personality in relationships?",
+    "topic": "personality in relationships",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:30:37.608159",
+    "answered": false
+  },
+  {
+    "question": "What is personality in relationships?",
+    "topic": "personality in relationships",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:30:37.608159",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality and creativity in simple terms?",
+    "topic": "personality and creativity",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:31:42.196697",
+    "answered": false
+  },
+  {
+    "question": "How is personality and creativity formed or developed?",
+    "topic": "personality and creativity",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:31:42.196697",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of personality and creativity?",
+    "topic": "personality and creativity",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:31:42.196697",
+    "answered": false
+  },
+  {
+    "question": "How is personality and creativity applied in therapy or counseling?",
+    "topic": "personality and creativity",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:31:42.196697",
+    "answered": false
+  },
+  {
+    "question": "How does personality disorders work?",
+    "topic": "personality disorders",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:33:02.026585",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of personality disorders?",
+    "topic": "personality disorders",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:33:02.026585",
+    "answered": false
+  },
+  {
+    "question": "How is personality disorders applied in therapy or counseling?",
+    "topic": "personality disorders",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:33:02.026585",
+    "answered": false
+  },
+  {
+    "question": "How can understanding personality neuroscience help people?",
+    "topic": "personality neuroscience",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:34:01.831934",
+    "answered": false
+  },
+  {
+    "question": "What causes personality neuroscience?",
+    "topic": "personality neuroscience",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:34:01.831934",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality neuroscience?",
+    "topic": "personality neuroscience",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:34:01.831934",
+    "answered": false
+  },
+  {
+    "question": "What does personality neuroscience mean in psychology?",
+    "topic": "personality neuroscience",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:34:01.831934",
+    "answered": false
+  },
+  {
+    "question": "How is cultural personality differences used in real life?",
+    "topic": "cultural personality differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:35:24.516216",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cultural personality differences?",
+    "topic": "cultural personality differences",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:35:24.516216",
+    "answered": false
+  },
+  {
+    "question": "What is cultural personality differences?",
+    "topic": "cultural personality differences",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:35:24.516216",
+    "answered": false
+  },
+  {
+    "question": "How is cultural personality differences applied in therapy or counseling?",
+    "topic": "cultural personality differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:35:24.516216",
+    "answered": false
+  },
+  {
+    "question": "How does personality and career success work?",
+    "topic": "personality and career success",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:36:48.825042",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality and career success?",
+    "topic": "personality and career success",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:36:48.825042",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of personality and career success?",
+    "topic": "personality and career success",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:36:48.825042",
+    "answered": false
+  },
+  {
+    "question": "How would you define personality and career success?",
+    "topic": "personality and career success",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:36:48.825042",
+    "answered": false
+  },
+  {
+    "question": "How is personality and career success formed or developed?",
+    "topic": "personality and career success",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:36:48.825042",
+    "answered": false
+  },
+  {
+    "question": "What is cultural emotions?",
+    "topic": "cultural emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:38:33.377395",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cultural emotions?",
+    "topic": "cultural emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:38:33.377395",
+    "answered": false
+  },
+  {
+    "question": "How can understanding cultural emotions help people?",
+    "topic": "cultural emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:38:33.377395",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cultural emotions in everyday situations?",
+    "topic": "cultural emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:38:33.377395",
+    "answered": false
+  },
+  {
+    "question": "How is cultural psychology applied in therapy or counseling?",
+    "topic": "cultural psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:40:07.790626",
+    "answered": false
+  },
+  {
+    "question": "How is cultural psychology used in real life?",
+    "topic": "cultural psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:40:07.790626",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:40:58.911211",
+    "answered": false
+  },
+  {
+    "question": "How would you define cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:40:58.911211",
+    "answered": false
+  },
+  {
+    "question": "How is social psychology used in real life?",
+    "topic": "social psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:41:46.124012",
+    "answered": false
+  },
+  {
+    "question": "How is social psychology applied in therapy or counseling?",
+    "topic": "social psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:41:46.124012",
+    "answered": false
+  },
+  {
+    "question": "How can understanding cultural psychology help people?",
+    "topic": "cultural psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:42:34.041712",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of cultural psychology?",
+    "topic": "cultural psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:42:34.041712",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of clinical emotions?",
+    "topic": "clinical emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:43:28.171714",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of clinical emotions?",
+    "topic": "clinical emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:43:28.171714",
+    "answered": false
+  },
+  {
+    "question": "What is clinical emotions?",
+    "topic": "clinical emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:43:28.171714",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of cognitive personality?",
+    "topic": "cognitive personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:44:41.413878",
+    "answered": false
+  },
+  {
+    "question": "How would you define cognitive personality?",
+    "topic": "cognitive personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:44:41.413878",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive personality used in real life?",
+    "topic": "cognitive personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:44:41.413878",
+    "answered": false
+  },
+  {
+    "question": "What causes cognitive behavior?",
+    "topic": "cognitive behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:45:46.046563",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive behavior formed or developed?",
+    "topic": "cognitive behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:45:46.046563",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cognitive behavior in simple terms?",
+    "topic": "cognitive behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:45:46.046563",
+    "answered": false
+  },
+  {
+    "question": "Where do we see developmental emotions in everyday situations?",
+    "topic": "developmental emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:46:53.955383",
+    "answered": false
+  },
+  {
+    "question": "What is developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:46:53.955383",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of clinical psychology?",
+    "topic": "clinical psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:47:35.214682",
+    "answered": false
+  },
+  {
+    "question": "How can understanding clinical psychology help people?",
+    "topic": "clinical psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:47:35.214682",
+    "answered": false
+  },
+  {
+    "question": "How is clinical psychology formed or developed?",
+    "topic": "clinical psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:47:35.214682",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in social emotions?",
+    "topic": "social emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:48:48.846907",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of social emotions?",
+    "topic": "social emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:48:48.846907",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social emotions in everyday situations?",
+    "topic": "social emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:48:48.846907",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cognitive psychology in simple terms?",
+    "topic": "cognitive psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:49:52.844313",
+    "answered": false
+  },
+  {
+    "question": "What causes cognitive psychology?",
+    "topic": "cognitive psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:49:52.844313",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cognitive psychology?",
+    "topic": "cognitive psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:49:52.844313",
+    "answered": false
+  },
+  {
+    "question": "What does cognitive psychology mean in psychology?",
+    "topic": "cognitive psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:49:52.844313",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of cognitive psychology?",
+    "topic": "cognitive psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:51:16.808057",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:51:41.010717",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cognitive emotions in simple terms?",
+    "topic": "cognitive emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:51:41.010717",
+    "answered": false
+  },
+  {
+    "question": "What does developmental emotions mean in psychology?",
+    "topic": "developmental emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:52:29.765264",
+    "answered": false
+  },
+  {
+    "question": "How would you define social behavior?",
+    "topic": "social behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:52:53.512699",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of social behavior?",
+    "topic": "social behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:52:53.512699",
+    "answered": false
+  },
+  {
+    "question": "What does clinical emotions mean in psychology?",
+    "topic": "clinical emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:53:43.027947",
+    "answered": false
+  },
+  {
+    "question": "How can understanding clinical emotions help people?",
+    "topic": "clinical emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:53:43.027947",
+    "answered": false
+  },
+  {
+    "question": "Can you explain clinical emotions in simple terms?",
+    "topic": "clinical emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:53:43.027947",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive emotions formed or developed?",
+    "topic": "cognitive emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:54:51.536636",
+    "answered": false
+  },
+  {
+    "question": "What causes cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:54:51.536636",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:54:51.536636",
+    "answered": false
+  },
+  {
+    "question": "What does cognitive emotions mean in psychology?",
+    "topic": "cognitive emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:54:51.536636",
+    "answered": false
+  },
+  {
+    "question": "How does developmental emotions work?",
+    "topic": "developmental emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:56:12.537647",
+    "answered": false
+  },
+  {
+    "question": "How is developmental emotions formed or developed?",
+    "topic": "developmental emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:56:12.537647",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:56:12.537647",
+    "answered": false
+  },
+  {
+    "question": "How does cultural behavior work?",
+    "topic": "cultural behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:57:16.117252",
+    "answered": false
+  },
+  {
+    "question": "What does cultural behavior mean in psychology?",
+    "topic": "cultural behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:57:16.117252",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cultural behavior?",
+    "topic": "cultural behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:57:16.117252",
+    "answered": false
+  },
+  {
+    "question": "What causes cultural behavior?",
+    "topic": "cultural behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:57:16.117252",
+    "answered": false
+  },
+  {
+    "question": "What is clinical behavior?",
+    "topic": "clinical behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:58:54.370278",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of clinical behavior?",
+    "topic": "clinical behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:58:54.370278",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of clinical behavior?",
+    "topic": "clinical behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:58:54.370278",
+    "answered": false
+  },
+  {
+    "question": "Can you explain clinical behavior in simple terms?",
+    "topic": "clinical behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T18:58:54.370278",
+    "answered": false
+  },
+  {
+    "question": "Can you explain advanced communication in simple terms?",
+    "topic": "advanced communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:00:34.018266",
+    "answered": false
+  },
+  {
+    "question": "What causes advanced communication?",
+    "topic": "advanced communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:00:34.018266",
+    "answered": false
+  },
+  {
+    "question": "How is advanced communication used in real life?",
+    "topic": "advanced communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:00:34.019312",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of advanced communication?",
+    "topic": "advanced communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:00:34.019312",
+    "answered": false
+  },
+  {
+    "question": "How can understanding advanced communication help people?",
+    "topic": "advanced communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:00:34.019312",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social communication in everyday situations?",
+    "topic": "social communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:02:50.138035",
+    "answered": false
+  },
+  {
+    "question": "How is social communication used in real life?",
+    "topic": "social communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:02:50.138035",
+    "answered": false
+  },
+  {
+    "question": "How would you define developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:03:34.418826",
+    "answered": false
+  },
+  {
+    "question": "What causes developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:03:34.418826",
+    "answered": false
+  },
+  {
+    "question": "How would you define clinical psychology?",
+    "topic": "clinical psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:04:24.346745",
+    "answered": false
+  },
+  {
+    "question": "How is clinical psychology used in real life?",
+    "topic": "clinical psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:04:24.346745",
+    "answered": false
+  },
+  {
+    "question": "Where do we see clinical psychology in everyday situations?",
+    "topic": "clinical psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:04:24.346745",
+    "answered": false
+  },
+  {
+    "question": "What does advanced behavior mean in psychology?",
+    "topic": "advanced behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:05:37.502787",
+    "answered": false
+  },
+  {
+    "question": "How can understanding advanced behavior help people?",
+    "topic": "advanced behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:05:37.502787",
+    "answered": false
+  },
+  {
+    "question": "How is advanced behavior formed or developed?",
+    "topic": "advanced behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:05:37.502787",
+    "answered": false
+  },
+  {
+    "question": "Can you explain developmental emotions in simple terms?",
+    "topic": "developmental emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:06:50.000447",
+    "answered": false
+  },
+  {
+    "question": "How can understanding developmental emotions help people?",
+    "topic": "developmental emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:06:50.002673",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:06:50.002673",
+    "answered": false
+  },
+  {
+    "question": "What is advanced behavior?",
+    "topic": "advanced behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:07:59.511579",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of advanced behavior?",
+    "topic": "advanced behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:07:59.511579",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in clinical behavior?",
+    "topic": "clinical behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:08:46.723107",
+    "answered": false
+  },
+  {
+    "question": "What does clinical behavior mean in psychology?",
+    "topic": "clinical behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:08:46.723107",
+    "answered": false
+  },
+  {
+    "question": "How can understanding clinical behavior help people?",
+    "topic": "clinical behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:08:46.723107",
+    "answered": false
+  },
+  {
+    "question": "What causes clinical behavior?",
+    "topic": "clinical behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:08:46.723107",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive behavior?",
+    "topic": "cognitive behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:14.623648",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive behavior used in real life?",
+    "topic": "cognitive behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:14.623648",
+    "answered": false
+  },
+  {
+    "question": "How can understanding developmental behavior help people?",
+    "topic": "developmental behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:58.643598",
+    "answered": false
+  },
+  {
+    "question": "How is developmental behavior formed or developed?",
+    "topic": "developmental behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:58.643598",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in developmental behavior?",
+    "topic": "developmental behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:58.643598",
+    "answered": false
+  },
+  {
+    "question": "How does developmental behavior work?",
+    "topic": "developmental behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:10:58.643598",
+    "answered": false
+  },
+  {
+    "question": "How does social communication work?",
+    "topic": "social communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:41:23.643034",
+    "answered": false
+  },
+  {
+    "question": "Can you explain developmental communication in simple terms?",
+    "topic": "developmental communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:42:26.116720",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of developmental communication?",
+    "topic": "developmental communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:42:26.116720",
+    "answered": false
+  },
+  {
+    "question": "What causes developmental communication?",
+    "topic": "developmental communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:42:26.116720",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of clinical emotions?",
+    "topic": "clinical emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:45:14.311518",
+    "answered": false
+  },
+  {
+    "question": "How is social emotions formed or developed?",
+    "topic": "social emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:46:29.609983",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social emotions?",
+    "topic": "social emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:46:29.609983",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of social emotions?",
+    "topic": "social emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:46:29.609983",
+    "answered": false
+  },
+  {
+    "question": "What is cognitive communication?",
+    "topic": "cognitive communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:48:58.849595",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive communication used in real life?",
+    "topic": "cognitive communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:48:58.849595",
+    "answered": false
+  },
+  {
+    "question": "Can you explain developmental psychology in simple terms?",
+    "topic": "developmental psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:49:48.011335",
+    "answered": false
+  },
+  {
+    "question": "Where do we see developmental psychology in everyday situations?",
+    "topic": "developmental psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:49:48.011335",
+    "answered": false
+  },
+  {
+    "question": "How is developmental psychology applied in therapy or counseling?",
+    "topic": "developmental psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:49:48.011335",
+    "answered": false
+  },
+  {
+    "question": "Where do we see clinical emotions in everyday situations?",
+    "topic": "clinical emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:51:10.027344",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in clinical emotions?",
+    "topic": "clinical emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:51:10.027344",
+    "answered": false
+  },
+  {
+    "question": "How can understanding cognitive enhancement techniques help people?",
+    "topic": "cognitive enhancement techniques",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:52:05.822217",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive enhancement techniques formed or developed?",
+    "topic": "cognitive enhancement techniques",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:52:05.822217",
+    "answered": false
+  },
+  {
+    "question": "What does cognitive enhancement techniques mean in psychology?",
+    "topic": "cognitive enhancement techniques",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:52:05.822217",
+    "answered": false
+  },
+  {
+    "question": "What causes cultural psychology?",
+    "topic": "cultural psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:53:11.121777",
+    "answered": false
+  },
+  {
+    "question": "What is cognitive personality?",
+    "topic": "cognitive personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:53:37.355613",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive communication formed or developed?",
+    "topic": "cognitive communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:54:03.346810",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cognitive communication in everyday situations?",
+    "topic": "cognitive communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:54:03.346810",
+    "answered": false
+  },
+  {
+    "question": "How can understanding cognitive communication help people?",
+    "topic": "cognitive communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:54:03.346810",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of advanced personality?",
+    "topic": "advanced personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:55:19.200055",
+    "answered": false
+  },
+  {
+    "question": "What causes advanced personality?",
+    "topic": "advanced personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:55:19.200055",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:56:16.857794",
+    "answered": false
+  },
+  {
+    "question": "Can you explain curiosity psychology and intrinsic motivation in simple terms?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:56:16.857794",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:56:16.857794",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive communication applied in therapy or counseling?",
+    "topic": "cognitive communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:57:40.106079",
+    "answered": false
+  },
+  {
+    "question": "What is developmental behavior?",
+    "topic": "developmental behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:58:08.902402",
+    "answered": false
+  },
+  {
+    "question": "Can you explain developmental behavior in simple terms?",
+    "topic": "developmental behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:58:08.902402",
+    "answered": false
+  },
+  {
+    "question": "How would you define social emotions?",
+    "topic": "social emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:59:12.236681",
+    "answered": false
+  },
+  {
+    "question": "What does social emotions mean in psychology?",
+    "topic": "social emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:59:12.236681",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social emotions help people?",
+    "topic": "social emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:59:12.236681",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social emotions in simple terms?",
+    "topic": "social emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T19:59:12.236681",
+    "answered": false
+  },
+  {
+    "question": "How does curiosity psychology and intrinsic motivation work?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:01:15.058413",
+    "answered": false
+  },
+  {
+    "question": "How can understanding curiosity psychology and intrinsic motivation help people?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:01:15.058413",
+    "answered": false
+  },
+  {
+    "question": "What causes curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:01:15.058413",
+    "answered": false
+  },
+  {
+    "question": "How does personality psychology work?",
+    "topic": "personality psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:08:10.978571",
+    "answered": false
+  },
+  {
+    "question": "Where do we see personality psychology in everyday situations?",
+    "topic": "personality psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:08:10.978571",
+    "answered": false
+  },
+  {
+    "question": "How is personality theories formed or developed?",
+    "topic": "personality theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:11:15.346707",
+    "answered": false
+  },
+  {
+    "question": "How can understanding personality theories help people?",
+    "topic": "personality theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:11:15.346707",
+    "answered": false
+  },
+  {
+    "question": "What causes personality theories?",
+    "topic": "personality theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:12:04.393368",
+    "answered": false
+  },
+  {
+    "question": "What is personality theories?",
+    "topic": "personality theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:12:04.393368",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality theories?",
+    "topic": "personality theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:12:04.393368",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of personality theories?",
+    "topic": "personality theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:12:04.393368",
+    "answered": false
+  },
+  {
+    "question": "How would you define personality theories?",
+    "topic": "personality theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:12:04.393368",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of individual differences?",
+    "topic": "individual differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:15:35.260872",
+    "answered": false
+  },
+  {
+    "question": "Where do we see individual differences in everyday situations?",
+    "topic": "individual differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:15:35.260872",
+    "answered": false
+  },
+  {
+    "question": "What does individual differences mean in psychology?",
+    "topic": "individual differences",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:15:35.260872",
+    "answered": false
+  },
+  {
+    "question": "How does individual differences work?",
+    "topic": "individual differences",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:15:35.260872",
+    "answered": false
+  },
+  {
+    "question": "How can understanding individual differences help people?",
+    "topic": "individual differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:17:15.658832",
+    "answered": false
+  },
+  {
+    "question": "How would you define individual differences?",
+    "topic": "individual differences",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:17:15.658832",
+    "answered": false
+  },
+  {
+    "question": "What does personality traits mean in psychology?",
+    "topic": "personality traits",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:18:21.244138",
+    "answered": false
+  },
+  {
+    "question": "How is personality traits formed or developed?",
+    "topic": "personality traits",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:18:21.244664",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality traits?",
+    "topic": "personality traits",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:19:09.226303",
+    "answered": false
+  },
+  {
+    "question": "How would you define personality development?",
+    "topic": "personality development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:19:39.397226",
+    "answered": false
+  },
+  {
+    "question": "What is personality development?",
+    "topic": "personality development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:19:39.397226",
+    "answered": false
+  },
+  {
+    "question": "How is personality development formed or developed?",
+    "topic": "personality development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:20:24.583339",
+    "answered": false
+  },
+  {
+    "question": "How does personality development work?",
+    "topic": "personality development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:20:24.583339",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of emotional intelligence?",
+    "topic": "emotional intelligence",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:21:14.797752",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in emotional intelligence?",
+    "topic": "emotional intelligence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:21:14.797752",
+    "answered": false
+  },
+  {
+    "question": "How is emotional intelligence applied in therapy or counseling?",
+    "topic": "emotional intelligence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:21:14.797752",
+    "answered": false
+  },
+  {
+    "question": "How is emotional intelligence used in real life?",
+    "topic": "emotional intelligence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:21:14.797752",
+    "answered": false
+  },
+  {
+    "question": "How is emotional intelligence formed or developed?",
+    "topic": "emotional intelligence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:22:49.862081",
+    "answered": false
+  },
+  {
+    "question": "How is empathy development applied in therapy or counseling?",
+    "topic": "empathy development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:23:21.461156",
+    "answered": false
+  },
+  {
+    "question": "What is empathy development?",
+    "topic": "empathy development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:23:21.461156",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of empathy development?",
+    "topic": "empathy development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:24:13.528788",
+    "answered": false
+  },
+  {
+    "question": "Where do we see empathy development in everyday situations?",
+    "topic": "empathy development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:24:13.528788",
+    "answered": false
+  },
+  {
+    "question": "How is empathy development formed or developed?",
+    "topic": "empathy development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:24:13.528788",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of emotional regulation?",
+    "topic": "emotional regulation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:25:28.383025",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of emotional regulation?",
+    "topic": "emotional regulation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:25:28.383025",
+    "answered": false
+  },
+  {
+    "question": "How is emotional regulation formed or developed?",
+    "topic": "emotional regulation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:25:28.383025",
+    "answered": false
+  },
+  {
+    "question": "How is emotional regulation applied in therapy or counseling?",
+    "topic": "emotional regulation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:25:28.383025",
+    "answered": false
+  },
+  {
+    "question": "Can you explain emotional regulation in simple terms?",
+    "topic": "emotional regulation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:25:28.383025",
+    "answered": false
+  },
+  {
+    "question": "How does emotional regulation work?",
+    "topic": "emotional regulation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:27:23.314902",
+    "answered": false
+  },
+  {
+    "question": "How would you define emotional regulation?",
+    "topic": "emotional regulation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:27:23.314902",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of emotional regulation?",
+    "topic": "emotional regulation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:27:23.314902",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in emotional regulation?",
+    "topic": "emotional regulation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:27:23.314902",
+    "answered": false
+  },
+  {
+    "question": "What causes critical thinking?",
+    "topic": "critical thinking",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:28:58.569505",
+    "answered": false
+  },
+  {
+    "question": "Can you explain critical thinking in simple terms?",
+    "topic": "critical thinking",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:28:58.569505",
+    "answered": false
+  },
+  {
+    "question": "How is critical thinking used in real life?",
+    "topic": "critical thinking",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:28:58.569505",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of critical thinking?",
+    "topic": "critical thinking",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:28:58.569505",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of critical thinking?",
+    "topic": "critical thinking",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:30:30.796465",
+    "answered": false
+  },
+  {
+    "question": "How would you define critical thinking?",
+    "topic": "critical thinking",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:30:30.796465",
+    "answered": false
+  },
+  {
+    "question": "Can you explain memory and learning in simple terms?",
+    "topic": "memory and learning",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:31:21.692938",
+    "answered": false
+  },
+  {
+    "question": "How would you define memory and learning?",
+    "topic": "memory and learning",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:31:21.692938",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in memory and learning?",
+    "topic": "memory and learning",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:32:10.739954",
+    "answered": false
+  },
+  {
+    "question": "How is memory and learning used in real life?",
+    "topic": "memory and learning",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:32:10.739954",
+    "answered": false
+  },
+  {
+    "question": "How is memory and learning formed or developed?",
+    "topic": "memory and learning",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:32:10.739954",
+    "answered": false
+  },
+  {
+    "question": "Where do we see problem solving in everyday situations?",
+    "topic": "problem solving",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:33:27.578079",
+    "answered": false
+  },
+  {
+    "question": "How would you define problem solving?",
+    "topic": "problem solving",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:33:27.578079",
+    "answered": false
+  },
+  {
+    "question": "What causes problem solving?",
+    "topic": "problem solving",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:33:27.578079",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of problem solving?",
+    "topic": "problem solving",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:34:44.623902",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of metacognition?",
+    "topic": "metacognition",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:35:13.675997",
+    "answered": false
+  },
+  {
+    "question": "What is metacognition?",
+    "topic": "metacognition",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:35:13.675997",
+    "answered": false
+  },
+  {
+    "question": "How can understanding metacognition help people?",
+    "topic": "metacognition",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:35:13.675997",
+    "answered": false
+  },
+  {
+    "question": "How is metacognition formed or developed?",
+    "topic": "metacognition",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:35:13.675997",
+    "answered": false
+  },
+  {
+    "question": "What does metacognition mean in psychology?",
+    "topic": "metacognition",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:35:13.675997",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in metacognition?",
+    "topic": "metacognition",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:37:17.214294",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of metacognition?",
+    "topic": "metacognition",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:37:17.214294",
+    "answered": false
+  },
+  {
+    "question": "Can you explain metacognition in simple terms?",
+    "topic": "metacognition",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:37:17.214294",
+    "answered": false
+  },
+  {
+    "question": "How is metacognition applied in therapy or counseling?",
+    "topic": "metacognition",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:37:17.214294",
+    "answered": false
+  },
+  {
+    "question": "How would you define metacognition?",
+    "topic": "metacognition",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:39:02.322298",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of metacognition?",
+    "topic": "metacognition",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:39:33.094601",
+    "answered": false
+  },
+  {
+    "question": "How is metacognition used in real life?",
+    "topic": "metacognition",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:39:33.094601",
+    "answered": false
+  },
+  {
+    "question": "How does self-reflection work?",
+    "topic": "self-reflection",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:40:37.414802",
+    "answered": false
+  },
+  {
+    "question": "What causes self-reflection?",
+    "topic": "self-reflection",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:40:37.414802",
+    "answered": false
+  },
+  {
+    "question": "Where do we see self-reflection in everyday situations?",
+    "topic": "self-reflection",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:40:37.414802",
+    "answered": false
+  },
+  {
+    "question": "How can understanding self-reflection help people?",
+    "topic": "self-reflection",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:41:54.245571",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in self-reflection?",
+    "topic": "self-reflection",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:41:54.245571",
+    "answered": false
+  },
+  {
+    "question": "How would you define self-reflection?",
+    "topic": "self-reflection",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:41:54.245571",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of communication skills?",
+    "topic": "communication skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:43:15.321968",
+    "answered": false
+  },
+  {
+    "question": "Where do we see communication skills in everyday situations?",
+    "topic": "communication skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:43:15.321968",
+    "answered": false
+  },
+  {
+    "question": "Can you explain communication skills in simple terms?",
+    "topic": "communication skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:43:15.321968",
+    "answered": false
+  },
+  {
+    "question": "How does communication skills work?",
+    "topic": "communication skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:43:15.321968",
+    "answered": false
+  },
+  {
+    "question": "What is communication skills?",
+    "topic": "communication skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:45:40.256419",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of communication skills?",
+    "topic": "communication skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:45:40.256419",
+    "answered": false
+  },
+  {
+    "question": "How does group dynamics work?",
+    "topic": "group dynamics",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:46:42.447115",
+    "answered": false
+  },
+  {
+    "question": "What is group dynamics?",
+    "topic": "group dynamics",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:46:42.447115",
+    "answered": false
+  },
+  {
+    "question": "How is group dynamics used in real life?",
+    "topic": "group dynamics",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:46:42.447115",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of group dynamics?",
+    "topic": "group dynamics",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:47:51.971148",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of group dynamics?",
+    "topic": "group dynamics",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:47:51.971148",
+    "answered": false
+  },
+  {
+    "question": "What does group dynamics mean in psychology?",
+    "topic": "group dynamics",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:47:51.971148",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of group dynamics?",
+    "topic": "group dynamics",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:47:51.971148",
+    "answered": false
+  },
+  {
+    "question": "How would you define communication skills?",
+    "topic": "communication skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:49:51.816298",
+    "answered": false
+  },
+  {
+    "question": "How is communication skills applied in therapy or counseling?",
+    "topic": "communication skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:50:20.584076",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in communication skills?",
+    "topic": "communication skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:50:20.584076",
+    "answered": false
+  },
+  {
+    "question": "What is behavioral change?",
+    "topic": "behavioral change",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:51:18.950560",
+    "answered": false
+  },
+  {
+    "question": "Can you explain behavioral change in simple terms?",
+    "topic": "behavioral change",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:51:18.950560",
+    "answered": false
+  },
+  {
+    "question": "How does behavioral change work?",
+    "topic": "behavioral change",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:51:18.950560",
+    "answered": false
+  },
+  {
+    "question": "How would you define behavioral change?",
+    "topic": "behavioral change",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:52:56.093317",
+    "answered": false
+  },
+  {
+    "question": "What does behavioral change mean in psychology?",
+    "topic": "behavioral change",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:52:56.094625",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in behavioral change?",
+    "topic": "behavioral change",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:52:56.094625",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of behavioral change?",
+    "topic": "behavioral change",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:52:56.094625",
+    "answered": false
+  },
+  {
+    "question": "How is behavioral change applied in therapy or counseling?",
+    "topic": "behavioral change",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:54:50.255375",
+    "answered": false
+  },
+  {
+    "question": "How is behavioral change used in real life?",
+    "topic": "behavioral change",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:54:50.255375",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of behavioral change?",
+    "topic": "behavioral change",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:54:50.255375",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of behavioral change?",
+    "topic": "behavioral change",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:56:05.607625",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:56:36.992129",
+    "answered": false
+  },
+  {
+    "question": "How would you define motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:56:36.992129",
+    "answered": false
+  },
+  {
+    "question": "How does motivation psychology work?",
+    "topic": "motivation psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:56:36.992129",
+    "answered": false
+  },
+  {
+    "question": "What causes motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:57:53.740357",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:57:53.740357",
+    "answered": false
+  },
+  {
+    "question": "How is motivation psychology formed or developed?",
+    "topic": "motivation psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:57:53.740357",
+    "answered": false
+  },
+  {
+    "question": "What is individual differences?",
+    "topic": "individual differences",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:59:11.445887",
+    "answered": false
+  },
+  {
+    "question": "How is individual differences used in real life?",
+    "topic": "individual differences",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:59:43.490083",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of individual differences?",
+    "topic": "individual differences",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T20:59:43.490083",
+    "answered": false
+  },
+  {
+    "question": "How is personality theories applied in therapy or counseling?",
+    "topic": "personality theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:00:43.081017",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality theories in simple terms?",
+    "topic": "personality theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:00:43.081017",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality theories?",
+    "topic": "personality theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:01:28.154267",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in individual differences?",
+    "topic": "individual differences",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:01:59.600343",
+    "answered": false
+  },
+  {
+    "question": "How would you define emotional skills?",
+    "topic": "emotional skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:02:40.723082",
+    "answered": false
+  },
+  {
+    "question": "How can understanding emotional skills help people?",
+    "topic": "emotional skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:02:40.723082",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of emotional skills?",
+    "topic": "emotional skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:02:40.723082",
+    "answered": false
+  },
+  {
+    "question": "How is empathy development used in real life?",
+    "topic": "empathy development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:04:15.089805",
+    "answered": false
+  },
+  {
+    "question": "What causes empathy development?",
+    "topic": "empathy development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:04:15.089805",
+    "answered": false
+  },
+  {
+    "question": "How does empathy development work?",
+    "topic": "empathy development",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:04:15.089805",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of empathy development?",
+    "topic": "empathy development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:05:27.420922",
+    "answered": false
+  },
+  {
+    "question": "How can understanding emotional regulation help people?",
+    "topic": "emotional regulation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:05:58.777634",
+    "answered": false
+  },
+  {
+    "question": "How is emotional regulation used in real life?",
+    "topic": "emotional regulation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:06:24.374994",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of problem solving?",
+    "topic": "problem solving",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:06:57.587192",
+    "answered": false
+  },
+  {
+    "question": "What does problem solving mean in psychology?",
+    "topic": "problem solving",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:07:20.654963",
+    "answered": false
+  },
+  {
+    "question": "Can you explain problem solving in simple terms?",
+    "topic": "problem solving",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:07:20.654963",
+    "answered": false
+  },
+  {
+    "question": "How is problem solving used in real life?",
+    "topic": "problem solving",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:07:20.654963",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of problem solving?",
+    "topic": "problem solving",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:07:20.654963",
+    "answered": false
+  },
+  {
+    "question": "How is critical thinking formed or developed?",
+    "topic": "critical thinking",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:08:56.871315",
+    "answered": false
+  },
+  {
+    "question": "What does critical thinking mean in psychology?",
+    "topic": "critical thinking",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:08:56.871315",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in critical thinking?",
+    "topic": "critical thinking",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:09:41.497641",
+    "answered": false
+  },
+  {
+    "question": "How is creativity and innovation formed or developed?",
+    "topic": "creativity and innovation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:10:12.563978",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of creativity and innovation?",
+    "topic": "creativity and innovation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:10:12.563978",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of creativity and innovation?",
+    "topic": "creativity and innovation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:10:12.563978",
+    "answered": false
+  },
+  {
+    "question": "How is creativity and innovation applied in therapy or counseling?",
+    "topic": "creativity and innovation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:10:12.563978",
+    "answered": false
+  },
+  {
+    "question": "What is creativity and innovation?",
+    "topic": "creativity and innovation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:11:46.778320",
+    "answered": false
+  },
+  {
+    "question": "How does creativity and innovation work?",
+    "topic": "creativity and innovation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:11:46.778320",
+    "answered": false
+  },
+  {
+    "question": "Where do we see metacognition in everyday situations?",
+    "topic": "metacognition",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:12:37.169607",
+    "answered": false
+  },
+  {
+    "question": "What causes metacognition?",
+    "topic": "metacognition",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:12:37.169607",
+    "answered": false
+  },
+  {
+    "question": "How is self-awareness psychology used in real life?",
+    "topic": "self-awareness psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:13:38.427651",
+    "answered": false
+  },
+  {
+    "question": "How would you define self-awareness psychology?",
+    "topic": "self-awareness psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:13:38.427651",
+    "answered": false
+  },
+  {
+    "question": "Where do we see self-awareness psychology in everyday situations?",
+    "topic": "self-awareness psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:13:38.427651",
+    "answered": false
+  },
+  {
+    "question": "How can understanding self-awareness psychology help people?",
+    "topic": "self-awareness psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:13:38.427651",
+    "answered": false
+  },
+  {
+    "question": "What does self-awareness psychology mean in psychology?",
+    "topic": "self-awareness psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:15:21.461624",
+    "answered": false
+  },
+  {
+    "question": "How does metacognition work?",
+    "topic": "metacognition",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:15:55.787610",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social influence help people?",
+    "topic": "social influence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:16:32.344823",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social influence?",
+    "topic": "social influence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:16:32.344823",
+    "answered": false
+  },
+  {
+    "question": "What causes social influence?",
+    "topic": "social influence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:16:32.344823",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in social influence?",
+    "topic": "social influence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:18:28.264890",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of social influence?",
+    "topic": "social influence",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:18:28.264890",
+    "answered": false
+  },
+  {
+    "question": "How is social influence applied in therapy or counseling?",
+    "topic": "social influence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:18:28.264890",
+    "answered": false
+  },
+  {
+    "question": "How is communication skills formed or developed?",
+    "topic": "communication skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:20:31.614728",
+    "answered": false
+  },
+  {
+    "question": "What causes communication skills?",
+    "topic": "communication skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:20:31.614728",
+    "answered": false
+  },
+  {
+    "question": "How is communication skills used in real life?",
+    "topic": "communication skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:21:35.313943",
+    "answered": false
+  },
+  {
+    "question": "What does interpersonal relationships mean in psychology?",
+    "topic": "interpersonal relationships",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:22:07.603386",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of interpersonal relationships?",
+    "topic": "interpersonal relationships",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:22:07.603386",
+    "answered": false
+  },
+  {
+    "question": "How can understanding interpersonal relationships help people?",
+    "topic": "interpersonal relationships",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:22:07.603386",
+    "answered": false
+  },
+  {
+    "question": "Can you explain interpersonal relationships in simple terms?",
+    "topic": "interpersonal relationships",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:22:07.603386",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of behavioral patterns?",
+    "topic": "behavioral patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:23:44.880573",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of behavioral patterns?",
+    "topic": "behavioral patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:23:44.881578",
+    "answered": false
+  },
+  {
+    "question": "What is behavioral patterns?",
+    "topic": "behavioral patterns",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:24:32.985330",
+    "answered": false
+  },
+  {
+    "question": "How is behavioral patterns formed or developed?",
+    "topic": "behavioral patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:24:32.985330",
+    "answered": false
+  },
+  {
+    "question": "How can understanding behavioral change help people?",
+    "topic": "behavioral change",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:25:32.091096",
+    "answered": false
+  },
+  {
+    "question": "What causes human behavior?",
+    "topic": "human behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:26:06.712304",
+    "answered": false
+  },
+  {
+    "question": "How is human behavior applied in therapy or counseling?",
+    "topic": "human behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:26:06.712304",
+    "answered": false
+  },
+  {
+    "question": "Where do we see human behavior in everyday situations?",
+    "topic": "human behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:26:06.712304",
+    "answered": false
+  },
+  {
+    "question": "How is human behavior formed or developed?",
+    "topic": "human behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:26:06.712304",
+    "answered": false
+  },
+  {
+    "question": "Can you explain human behavior in simple terms?",
+    "topic": "human behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:27:42.635080",
+    "answered": false
+  },
+  {
+    "question": "How does human behavior work?",
+    "topic": "human behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:27:42.635080",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of human behavior?",
+    "topic": "human behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:27:42.635080",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of human behavior?",
+    "topic": "human behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:27:42.635080",
+    "answered": false
+  },
+  {
+    "question": "What causes personality psychology?",
+    "topic": "personality psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:30:58.907563",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality psychology?",
+    "topic": "personality psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:30:58.907563",
+    "answered": false
+  },
+  {
+    "question": "What is personality psychology?",
+    "topic": "personality psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:30:58.907563",
+    "answered": false
+  },
+  {
+    "question": "How is personality psychology applied in therapy or counseling?",
+    "topic": "personality psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:30:58.907563",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of personality traits?",
+    "topic": "personality traits",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:34:37.346217",
+    "answered": false
+  },
+  {
+    "question": "How would you define personality traits?",
+    "topic": "personality traits",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:34:37.346217",
+    "answered": false
+  },
+  {
+    "question": "How is personality traits used in real life?",
+    "topic": "personality traits",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:35:33.046000",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of personality traits?",
+    "topic": "personality traits",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:35:56.304332",
+    "answered": false
+  },
+  {
+    "question": "How can understanding personality traits help people?",
+    "topic": "personality traits",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:35:56.304332",
+    "answered": false
+  },
+  {
+    "question": "How does social awareness work?",
+    "topic": "social awareness",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:36:48.640312",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social awareness in everyday situations?",
+    "topic": "social awareness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:36:48.640312",
+    "answered": false
+  },
+  {
+    "question": "What causes social awareness?",
+    "topic": "social awareness",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:36:48.640312",
+    "answered": false
+  },
+  {
+    "question": "What is social awareness?",
+    "topic": "social awareness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:36:48.640312",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social awareness in simple terms?",
+    "topic": "social awareness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:38:26.033106",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social awareness?",
+    "topic": "social awareness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:38:26.035118",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of social awareness?",
+    "topic": "social awareness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:38:26.035118",
+    "answered": false
+  },
+  {
+    "question": "Can you explain empathy development in simple terms?",
+    "topic": "empathy development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:39:39.900092",
+    "answered": false
+  },
+  {
+    "question": "Where do we see emotional skills in everyday situations?",
+    "topic": "emotional skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:40:22.120916",
+    "answered": false
+  },
+  {
+    "question": "What causes emotional skills?",
+    "topic": "emotional skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:40:22.120916",
+    "answered": false
+  },
+  {
+    "question": "What is emotional skills?",
+    "topic": "emotional skills",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:41:12.194928",
+    "answered": false
+  },
+  {
+    "question": "How is emotional skills applied in therapy or counseling?",
+    "topic": "emotional skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:41:12.194928",
+    "answered": false
+  },
+  {
+    "question": "How is emotional skills used in real life?",
+    "topic": "emotional skills",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:41:12.194928",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of emotional skills?",
+    "topic": "emotional skills",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:41:12.194928",
+    "answered": false
+  },
+  {
+    "question": "How does cognitive psychology work?",
+    "topic": "cognitive psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:43:36.945216",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cognitive psychology in everyday situations?",
+    "topic": "cognitive psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:43:36.945216",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive psychology?",
+    "topic": "cognitive psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:44:23.870683",
+    "answered": false
+  },
+  {
+    "question": "How does memory and learning work?",
+    "topic": "memory and learning",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:45:12.103076",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of memory and learning?",
+    "topic": "memory and learning",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:45:59.769972",
+    "answered": false
+  },
+  {
+    "question": "How is problem solving applied in therapy or counseling?",
+    "topic": "problem solving",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:46:41.245974",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in problem solving?",
+    "topic": "problem solving",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:46:41.245974",
+    "answered": false
+  },
+  {
+    "question": "How is problem solving formed or developed?",
+    "topic": "problem solving",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:48:00.488435",
+    "answered": false
+  },
+  {
+    "question": "How is self-reflection formed or developed?",
+    "topic": "self-reflection",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:48:51.167796",
+    "answered": false
+  },
+  {
+    "question": "Can you explain self-reflection in simple terms?",
+    "topic": "self-reflection",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:48:51.167796",
+    "answered": false
+  },
+  {
+    "question": "Can you explain self-awareness psychology in simple terms?",
+    "topic": "self-awareness psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:49:54.183181",
+    "answered": false
+  },
+  {
+    "question": "How does self-awareness psychology work?",
+    "topic": "self-awareness psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:49:54.183181",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in self-awareness psychology?",
+    "topic": "self-awareness psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:49:54.183181",
+    "answered": false
+  },
+  {
+    "question": "How is self-awareness psychology applied in therapy or counseling?",
+    "topic": "self-awareness psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:49:54.183181",
+    "answered": false
+  },
+  {
+    "question": "What is self-reflection?",
+    "topic": "self-reflection",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:52:05.261445",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of self-reflection?",
+    "topic": "self-reflection",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:52:05.261445",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of self-reflection?",
+    "topic": "self-reflection",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:52:55.664024",
+    "answered": false
+  },
+  {
+    "question": "How is group dynamics applied in therapy or counseling?",
+    "topic": "group dynamics",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:53:28.844762",
+    "answered": false
+  },
+  {
+    "question": "How is group dynamics formed or developed?",
+    "topic": "group dynamics",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:53:28.844762",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in group dynamics?",
+    "topic": "group dynamics",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:54:24.097109",
+    "answered": false
+  },
+  {
+    "question": "How would you define group dynamics?",
+    "topic": "group dynamics",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:55:08.194028",
+    "answered": false
+  },
+  {
+    "question": "What causes group dynamics?",
+    "topic": "group dynamics",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:55:08.194028",
+    "answered": false
+  },
+  {
+    "question": "How is social influence used in real life?",
+    "topic": "social influence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:56:04.682348",
+    "answered": false
+  },
+  {
+    "question": "How would you define social influence?",
+    "topic": "social influence",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:56:04.682348",
+    "answered": false
+  },
+  {
+    "question": "How is habit formation applied in therapy or counseling?",
+    "topic": "habit formation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:57:25.853721",
+    "answered": false
+  },
+  {
+    "question": "What is habit formation?",
+    "topic": "habit formation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:57:25.853721",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of habit formation?",
+    "topic": "habit formation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:57:25.853721",
+    "answered": false
+  },
+  {
+    "question": "How is habit formation formed or developed?",
+    "topic": "habit formation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T21:57:25.853721",
+    "answered": false
+  },
+  {
+    "question": "How does habit formation work?",
+    "topic": "habit formation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:01:14.404055",
+    "answered": false
+  },
+  {
+    "question": "How can understanding habit formation help people?",
+    "topic": "habit formation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:01:14.404055",
+    "answered": false
+  },
+  {
+    "question": "How is motivation psychology used in real life?",
+    "topic": "motivation psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:02:36.052754",
+    "answered": false
+  },
+  {
+    "question": "How is motivation psychology applied in therapy or counseling?",
+    "topic": "motivation psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:02:36.052754",
+    "answered": false
+  },
+  {
+    "question": "What does motivation psychology mean in psychology?",
+    "topic": "motivation psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:03:55.676353",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:04:30.705706",
+    "answered": false
+  },
+  {
+    "question": "What is motivation psychology?",
+    "topic": "motivation psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:04:53.843016",
+    "answered": false
+  },
+  {
+    "question": "What does personality theories mean in psychology?",
+    "topic": "personality theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:05:34.812392",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of personality theories?",
+    "topic": "personality theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:05:34.812392",
+    "answered": false
+  },
+  {
+    "question": "How is personality theories used in real life?",
+    "topic": "personality theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:05:34.812392",
+    "answered": false
+  },
+  {
+    "question": "Where do we see personality theories in everyday situations?",
+    "topic": "personality theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:05:34.812392",
+    "answered": false
+  },
+  {
+    "question": "How does personality theories work?",
+    "topic": "personality theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:07:29.506787",
+    "answered": false
+  },
+  {
+    "question": "What causes personality traits?",
+    "topic": "personality traits",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:08:20.315887",
+    "answered": false
+  },
+  {
+    "question": "How would you define social awareness?",
+    "topic": "social awareness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:09:24.464516",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social awareness help people?",
+    "topic": "social awareness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:09:24.464516",
+    "answered": false
+  },
+  {
+    "question": "How is social awareness used in real life?",
+    "topic": "social awareness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:11:29.561201",
+    "answered": false
+  },
+  {
+    "question": "Where do we see emotional regulation in everyday situations?",
+    "topic": "emotional regulation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:12:23.255220",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive psychology formed or developed?",
+    "topic": "cognitive psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:13:05.587643",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive psychology applied in therapy or counseling?",
+    "topic": "cognitive psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:13:05.587643",
+    "answered": false
+  },
+  {
+    "question": "How would you define cognitive psychology?",
+    "topic": "cognitive psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:13:50.865309",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of critical thinking?",
+    "topic": "critical thinking",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:14:29.506304",
+    "answered": false
+  },
+  {
+    "question": "What is critical thinking?",
+    "topic": "critical thinking",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:14:29.506304",
+    "answered": false
+  },
+  {
+    "question": "How is critical thinking applied in therapy or counseling?",
+    "topic": "critical thinking",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:15:13.985836",
+    "answered": false
+  },
+  {
+    "question": "How can understanding critical thinking help people?",
+    "topic": "critical thinking",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:15:13.985836",
+    "answered": false
+  },
+  {
+    "question": "How is mindfulness formed or developed?",
+    "topic": "mindfulness",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:18:40.564268",
+    "answered": false
+  },
+  {
+    "question": "How would you define mindfulness?",
+    "topic": "mindfulness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:18:40.564268",
+    "answered": false
+  },
+  {
+    "question": "Can you explain mindfulness in simple terms?",
+    "topic": "mindfulness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:18:40.564268",
+    "answered": false
+  },
+  {
+    "question": "Where do we see mindfulness in everyday situations?",
+    "topic": "mindfulness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:19:39.456025",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of mindfulness?",
+    "topic": "mindfulness",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:19:39.456025",
+    "answered": false
+  },
+  {
+    "question": "What causes mindfulness?",
+    "topic": "mindfulness",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:19:39.456025",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of mindfulness?",
+    "topic": "mindfulness",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:20:52.208541",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of social influence?",
+    "topic": "social influence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:21:25.993472",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social influence in everyday situations?",
+    "topic": "social influence",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:21:50.798484",
+    "answered": false
+  },
+  {
+    "question": "How does social influence work?",
+    "topic": "social influence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:21:50.798484",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social behavior help people?",
+    "topic": "social behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:23:24.433324",
+    "answered": false
+  },
+  {
+    "question": "How is social behavior applied in therapy or counseling?",
+    "topic": "social behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:23:24.433324",
+    "answered": false
+  },
+  {
+    "question": "How is social behavior formed or developed?",
+    "topic": "social behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:23:24.433324",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social behavior?",
+    "topic": "social behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:23:24.433324",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social behavior in simple terms?",
+    "topic": "social behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:26:22.135562",
+    "answered": false
+  },
+  {
+    "question": "How is interpersonal relationships used in real life?",
+    "topic": "interpersonal relationships",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:27:11.514058",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of interpersonal relationships?",
+    "topic": "interpersonal relationships",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:27:11.514058",
+    "answered": false
+  },
+  {
+    "question": "How does interpersonal relationships work?",
+    "topic": "interpersonal relationships",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:28:05.714241",
+    "answered": false
+  },
+  {
+    "question": "How would you define human behavior?",
+    "topic": "human behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:28:41.319291",
+    "answered": false
+  },
+  {
+    "question": "How is human behavior used in real life?",
+    "topic": "human behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:28:41.319291",
+    "answered": false
+  },
+  {
+    "question": "What is human behavior?",
+    "topic": "human behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:29:51.813301",
+    "answered": false
+  },
+  {
+    "question": "Where do we see behavioral patterns in everyday situations?",
+    "topic": "behavioral patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:30:47.423542",
+    "answered": false
+  },
+  {
+    "question": "How is behavioral patterns applied in therapy or counseling?",
+    "topic": "behavioral patterns",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:30:47.423542",
+    "answered": false
+  },
+  {
+    "question": "How does behavioral patterns work?",
+    "topic": "behavioral patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:30:47.423542",
+    "answered": false
+  },
+  {
+    "question": "How would you define behavioral patterns?",
+    "topic": "behavioral patterns",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:30:47.423542",
+    "answered": false
+  },
+  {
+    "question": "What does behavioral patterns mean in psychology?",
+    "topic": "behavioral patterns",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:32:39.966640",
+    "answered": false
+  },
+  {
+    "question": "What causes behavioral patterns?",
+    "topic": "behavioral patterns",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:32:39.966640",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality development?",
+    "topic": "personality development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:34:07.853617",
+    "answered": false
+  },
+  {
+    "question": "Can you explain personality development in simple terms?",
+    "topic": "personality development",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:34:07.853617",
+    "answered": false
+  },
+  {
+    "question": "How is personality development applied in therapy or counseling?",
+    "topic": "personality development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:34:07.853617",
+    "answered": false
+  },
+  {
+    "question": "How is personality development used in real life?",
+    "topic": "personality development",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:35:39.275376",
+    "answered": false
+  },
+  {
+    "question": "How does emotional intelligence work?",
+    "topic": "emotional intelligence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:36:16.079211",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of emotional intelligence?",
+    "topic": "emotional intelligence",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:36:43.444799",
+    "answered": false
+  },
+  {
+    "question": "What does emotional regulation mean in psychology?",
+    "topic": "emotional regulation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-18T22:37:34.790154",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social behavior in everyday situations?",
+    "topic": "social behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:29:08.348678",
+    "answered": false
+  },
+  {
+    "question": "What does social behavior mean in psychology?",
+    "topic": "social behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:29:08.348678",
+    "answered": false
+  },
+  {
+    "question": "How does cognitive communication work?",
+    "topic": "cognitive communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:30:50.469543",
+    "answered": false
+  },
+  {
+    "question": "Can you explain advanced behavior in simple terms?",
+    "topic": "advanced behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:31:24.021520",
+    "answered": false
+  },
+  {
+    "question": "How would you define advanced behavior?",
+    "topic": "advanced behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:31:24.021520",
+    "answered": false
+  },
+  {
+    "question": "How does social psychology work?",
+    "topic": "social psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:32:58.992568",
+    "answered": false
+  },
+  {
+    "question": "What is social psychology?",
+    "topic": "social psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:32:58.992568",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social communication?",
+    "topic": "social communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:34:29.055837",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of social communication?",
+    "topic": "social communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:34:29.055837",
+    "answered": false
+  },
+  {
+    "question": "What is advanced psychology?",
+    "topic": "advanced psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:37:10.967345",
+    "answered": false
+  },
+  {
+    "question": "How does advanced psychology work?",
+    "topic": "advanced psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:37:10.967345",
+    "answered": false
+  },
+  {
+    "question": "How is advanced psychology formed or developed?",
+    "topic": "advanced psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:37:10.967345",
+    "answered": false
+  },
+  {
+    "question": "What causes advanced psychology?",
+    "topic": "advanced psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:37:10.967345",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of developmental behavior?",
+    "topic": "developmental behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:40:07.117679",
+    "answered": false
+  },
+  {
+    "question": "Where do we see developmental behavior in everyday situations?",
+    "topic": "developmental behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:40:07.117679",
+    "answered": false
+  },
+  {
+    "question": "How does social personality work?",
+    "topic": "social personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:42:02.025642",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of social personality?",
+    "topic": "social personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:42:02.025642",
+    "answered": false
+  },
+  {
+    "question": "What does social personality mean in psychology?",
+    "topic": "social personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:42:02.025642",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social personality help people?",
+    "topic": "social personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:42:02.025642",
+    "answered": false
+  },
+  {
+    "question": "How is cultural behavior formed or developed?",
+    "topic": "cultural behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:44:48.959937",
+    "answered": false
+  },
+  {
+    "question": "How is cultural behavior applied in therapy or counseling?",
+    "topic": "cultural behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:44:48.959937",
+    "answered": false
+  },
+  {
+    "question": "Where do we see clinical behavior in everyday situations?",
+    "topic": "clinical behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:46:22.502296",
+    "answered": false
+  },
+  {
+    "question": "How is clinical behavior applied in therapy or counseling?",
+    "topic": "clinical behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:46:22.502296",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of advanced psychology?",
+    "topic": "advanced psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:47:43.689669",
+    "answered": false
+  },
+  {
+    "question": "What does advanced psychology mean in psychology?",
+    "topic": "advanced psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:47:43.689669",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of advanced psychology?",
+    "topic": "advanced psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:47:43.689669",
+    "answered": false
+  },
+  {
+    "question": "How is clinical emotions formed or developed?",
+    "topic": "clinical emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:49:47.118852",
+    "answered": false
+  },
+  {
+    "question": "How is clinical emotions applied in therapy or counseling?",
+    "topic": "clinical emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:49:47.118852",
+    "answered": false
+  },
+  {
+    "question": "How would you define cognitive enhancement techniques?",
+    "topic": "cognitive enhancement techniques",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:51:20.267312",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of cognitive enhancement techniques?",
+    "topic": "cognitive enhancement techniques",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:51:20.267312",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive enhancement techniques?",
+    "topic": "cognitive enhancement techniques",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:51:20.267312",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cognitive enhancement techniques in simple terms?",
+    "topic": "cognitive enhancement techniques",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:51:20.267312",
+    "answered": false
+  },
+  {
+    "question": "How is advanced emotions applied in therapy or counseling?",
+    "topic": "advanced emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:54:04.327109",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of advanced emotions?",
+    "topic": "advanced emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:54:04.327109",
+    "answered": false
+  },
+  {
+    "question": "Where do we see advanced emotions in everyday situations?",
+    "topic": "advanced emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:54:04.327109",
+    "answered": false
+  },
+  {
+    "question": "What does advanced emotions mean in psychology?",
+    "topic": "advanced emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:54:04.327109",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of developmental behavior?",
+    "topic": "developmental behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:57:28.724977",
+    "answered": false
+  },
+  {
+    "question": "How can understanding cognitive personality help people?",
+    "topic": "cognitive personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:58:34.791945",
+    "answered": false
+  },
+  {
+    "question": "How does cognitive personality work?",
+    "topic": "cognitive personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:58:34.791945",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cognitive personality in everyday situations?",
+    "topic": "cognitive personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:58:34.791945",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cognitive personality?",
+    "topic": "cognitive personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T16:58:34.791945",
+    "answered": false
+  },
+  {
+    "question": "How is advanced behavior used in real life?",
+    "topic": "advanced behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:01:02.831295",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in advanced behavior?",
+    "topic": "advanced behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:01:02.831295",
+    "answered": false
+  },
+  {
+    "question": "How can understanding emotional regulation strategies help people?",
+    "topic": "emotional regulation strategies",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:02:29.246080",
+    "answered": false
+  },
+  {
+    "question": "How is emotional regulation strategies used in real life?",
+    "topic": "emotional regulation strategies",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:02:29.246080",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of emotional regulation strategies?",
+    "topic": "emotional regulation strategies",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:02:29.246080",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of clinical communication?",
+    "topic": "clinical communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:04:53.924239",
+    "answered": false
+  },
+  {
+    "question": "Where do we see clinical communication in everyday situations?",
+    "topic": "clinical communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:04:53.924239",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in developmental emotions?",
+    "topic": "developmental emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:07:35.494999",
+    "answered": false
+  },
+  {
+    "question": "How is developmental emotions used in real life?",
+    "topic": "developmental emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:07:35.494999",
+    "answered": false
+  },
+  {
+    "question": "How is advanced personality applied in therapy or counseling?",
+    "topic": "advanced personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:08:33.908764",
+    "answered": false
+  },
+  {
+    "question": "What does advanced personality mean in psychology?",
+    "topic": "advanced personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:08:33.908764",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive emotions applied in therapy or counseling?",
+    "topic": "cognitive emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:09:26.697117",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cognitive emotions in everyday situations?",
+    "topic": "cognitive emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:09:26.697117",
+    "answered": false
+  },
+  {
+    "question": "How does cognitive emotions work?",
+    "topic": "cognitive emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:09:26.697117",
+    "answered": false
+  },
+  {
+    "question": "What is developmental personality?",
+    "topic": "developmental personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:10:42.625646",
+    "answered": false
+  },
+  {
+    "question": "How is developmental personality used in real life?",
+    "topic": "developmental personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:10:42.625646",
+    "answered": false
+  },
+  {
+    "question": "How is developmental personality formed or developed?",
+    "topic": "developmental personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:10:42.625646",
+    "answered": false
+  },
+  {
+    "question": "How can understanding developmental personality help people?",
+    "topic": "developmental personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:10:42.625646",
+    "answered": false
+  },
+  {
+    "question": "Where do we see developmental personality in everyday situations?",
+    "topic": "developmental personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:10:42.625646",
+    "answered": false
+  },
+  {
+    "question": "What is advanced communication?",
+    "topic": "advanced communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:12:43.765161",
+    "answered": false
+  },
+  {
+    "question": "What does advanced communication mean in psychology?",
+    "topic": "advanced communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:12:43.765161",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of advanced communication?",
+    "topic": "advanced communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:12:43.765161",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive psychology used in real life?",
+    "topic": "cognitive psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:14:31.357367",
+    "answered": false
+  },
+  {
+    "question": "How does advanced personality work?",
+    "topic": "advanced personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:15:03.507500",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of advanced personality?",
+    "topic": "advanced personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:15:03.507500",
+    "answered": false
+  },
+  {
+    "question": "How can understanding advanced personality help people?",
+    "topic": "advanced personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:15:03.507500",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cultural emotions?",
+    "topic": "cultural emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:16:16.799793",
+    "answered": false
+  },
+  {
+    "question": "How can understanding clinical personality help people?",
+    "topic": "clinical personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:17:43.660378",
+    "answered": false
+  },
+  {
+    "question": "Where do we see clinical personality in everyday situations?",
+    "topic": "clinical personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:17:43.660378",
+    "answered": false
+  },
+  {
+    "question": "What causes clinical personality?",
+    "topic": "clinical personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-19T17:17:43.660378",
+    "answered": false
+  },
+  {
+    "question": "How is social personality used in real life?",
+    "topic": "social personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:46:24.334334",
+    "answered": false
+  },
+  {
+    "question": "What is social personality?",
+    "topic": "social personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:46:24.336851",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social personality in simple terms?",
+    "topic": "social personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:47:44.779510",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social personality in everyday situations?",
+    "topic": "social personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:47:44.779642",
+    "answered": false
+  },
+  {
+    "question": "Where do we see advanced behavior in everyday situations?",
+    "topic": "advanced behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:49:02.505388",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of clinical communication?",
+    "topic": "clinical communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:49:44.326398",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of clinical communication?",
+    "topic": "clinical communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:49:44.326418",
+    "answered": false
+  },
+  {
+    "question": "How does clinical psychology work?",
+    "topic": "clinical psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:50:52.145683",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of clinical psychology?",
+    "topic": "clinical psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:50:52.145699",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of cultural emotions?",
+    "topic": "cultural emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:52:06.429836",
+    "answered": false
+  },
+  {
+    "question": "How does cultural emotions work?",
+    "topic": "cultural emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:52:06.429850",
+    "answered": false
+  },
+  {
+    "question": "How can understanding advanced psychology help people?",
+    "topic": "advanced psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:53:22.852291",
+    "answered": false
+  },
+  {
+    "question": "How does cultural communication work?",
+    "topic": "cultural communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:54:01.105605",
+    "answered": false
+  },
+  {
+    "question": "What does cultural communication mean in psychology?",
+    "topic": "cultural communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:54:01.105779",
+    "answered": false
+  },
+  {
+    "question": "How would you define cultural communication?",
+    "topic": "cultural communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:54:01.105817",
+    "answered": false
+  },
+  {
+    "question": "What does developmental personality mean in psychology?",
+    "topic": "developmental personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:55:50.858452",
+    "answered": false
+  },
+  {
+    "question": "How would you define developmental personality?",
+    "topic": "developmental personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:55:50.858471",
+    "answered": false
+  },
+  {
+    "question": "How is personality development theories used in real life?",
+    "topic": "personality development theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:57:04.729195",
+    "answered": false
+  },
+  {
+    "question": "How is personality development theories applied in therapy or counseling?",
+    "topic": "personality development theories",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:57:04.729217",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of personality development theories?",
+    "topic": "personality development theories",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:57:04.729228",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in personality development theories?",
+    "topic": "personality development theories",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:57:04.729238",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of cognitive emotions?",
+    "topic": "cognitive emotions",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:59:10.502590",
+    "answered": false
+  },
+  {
+    "question": "How is cognitive emotions used in real life?",
+    "topic": "cognitive emotions",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T22:59:47.542072",
+    "answered": false
+  },
+  {
+    "question": "How is advanced personality used in real life?",
+    "topic": "advanced personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T23:00:21.844621",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cultural behavior?",
+    "topic": "cultural behavior",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T23:00:50.302261",
+    "answered": false
+  },
+  {
+    "question": "What is cultural behavior?",
+    "topic": "cultural behavior",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T23:00:50.302275",
+    "answered": false
+  },
+  {
+    "question": "How is curiosity psychology and intrinsic motivation applied in therapy or counseling?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T23:02:07.487619",
+    "answered": false
+  },
+  {
+    "question": "How is curiosity psychology and intrinsic motivation used in real life?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-23T23:02:07.487677",
+    "answered": false
+  },
+  {
+    "question": "How would you define advanced communication?",
+    "topic": "advanced communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:14:50.412922",
+    "answered": false
+  },
+  {
+    "question": "Where do we see advanced communication in everyday situations?",
+    "topic": "advanced communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:14:50.412962",
+    "answered": false
+  },
+  {
+    "question": "How is clinical communication formed or developed?",
+    "topic": "clinical communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:28:02.827903",
+    "answered": false
+  },
+  {
+    "question": "How would you define clinical communication?",
+    "topic": "clinical communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:28:02.827919",
+    "answered": false
+  },
+  {
+    "question": "What causes clinical communication?",
+    "topic": "clinical communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:28:02.827948",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive personality?",
+    "topic": "cognitive personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:29:41.739447",
+    "answered": false
+  },
+  {
+    "question": "Can you explain clinical personality in simple terms?",
+    "topic": "clinical personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:30:21.137819",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of clinical personality?",
+    "topic": "clinical personality",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:30:21.137871",
+    "answered": false
+  },
+  {
+    "question": "How is clinical personality formed or developed?",
+    "topic": "clinical personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:30:21.137880",
+    "answered": false
+  },
+  {
+    "question": "What does clinical personality mean in psychology?",
+    "topic": "clinical personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:30:21.137888",
+    "answered": false
+  },
+  {
+    "question": "Where do we see curiosity psychology and intrinsic motivation in everyday situations?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:32:30.302229",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social communication help people?",
+    "topic": "social communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:33:15.320810",
+    "answered": false
+  },
+  {
+    "question": "How would you define social communication?",
+    "topic": "social communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:33:15.320840",
+    "answered": false
+  },
+  {
+    "question": "What does social communication mean in psychology?",
+    "topic": "social communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:33:15.320866",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of social communication?",
+    "topic": "social communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:34:47.393045",
+    "answered": false
+  },
+  {
+    "question": "How would you define social personality?",
+    "topic": "social personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:35:19.289996",
+    "answered": false
+  },
+  {
+    "question": "How is social personality formed or developed?",
+    "topic": "social personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:35:19.290022",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:36:09.353369",
+    "answered": false
+  },
+  {
+    "question": "What is curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:36:09.353381",
+    "answered": false
+  },
+  {
+    "question": "Can you explain advanced personality in simple terms?",
+    "topic": "advanced personality",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:37:12.330920",
+    "answered": false
+  },
+  {
+    "question": "How is advanced personality formed or developed?",
+    "topic": "advanced personality",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:37:12.330933",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cognitive communication in simple terms?",
+    "topic": "cognitive communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:38:21.723014",
+    "answered": false
+  },
+  {
+    "question": "What are practical applications of cognitive communication?",
+    "topic": "cognitive communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:38:21.723063",
+    "answered": false
+  },
+  {
+    "question": "What causes cultural emotions?",
+    "topic": "cultural emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:39:41.219345",
+    "answered": false
+  },
+  {
+    "question": "How is cultural emotions formed or developed?",
+    "topic": "cultural emotions",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:39:41.219389",
+    "answered": false
+  },
+  {
+    "question": "How would you define cognitive communication?",
+    "topic": "cognitive communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:41:03.368717",
+    "answered": false
+  },
+  {
+    "question": "How can understanding social psychology help people?",
+    "topic": "social psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:41:39.859017",
+    "answered": false
+  },
+  {
+    "question": "Can you explain social psychology in simple terms?",
+    "topic": "social psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:41:39.859041",
+    "answered": false
+  },
+  {
+    "question": "How is advanced psychology applied in therapy or counseling?",
+    "topic": "advanced psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:42:38.208508",
+    "answered": false
+  },
+  {
+    "question": "Where do we see cultural psychology in everyday situations?",
+    "topic": "cultural psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:43:17.034300",
+    "answered": false
+  },
+  {
+    "question": "How is developmental psychology used in real life?",
+    "topic": "developmental psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:44:01.854043",
+    "answered": false
+  },
+  {
+    "question": "How does developmental psychology work?",
+    "topic": "developmental psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:44:01.854092",
+    "answered": false
+  },
+  {
+    "question": "What does developmental psychology mean in psychology?",
+    "topic": "developmental psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:44:01.854139",
+    "answered": false
+  },
+  {
+    "question": "How does cultural psychology work?",
+    "topic": "cultural psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:45:46.715349",
+    "answered": false
+  },
+  {
+    "question": "Can you explain cultural psychology in simple terms?",
+    "topic": "cultural psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:45:46.715370",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in cultural psychology?",
+    "topic": "cultural psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:45:46.715376",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of developmental communication?",
+    "topic": "developmental communication",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:47:45.003798",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of developmental communication?",
+    "topic": "developmental communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:47:45.003815",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in developmental communication?",
+    "topic": "developmental communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:47:45.003822",
+    "answered": false
+  },
+  {
+    "question": "What is cultural psychology?",
+    "topic": "cultural psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:49:26.267242",
+    "answered": false
+  },
+  {
+    "question": "What does curiosity psychology and intrinsic motivation mean in psychology?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:50:14.432540",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of cognitive communication?",
+    "topic": "cognitive communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:50:50.357384",
+    "answered": false
+  },
+  {
+    "question": "Where do we see social psychology in everyday situations?",
+    "topic": "social psychology",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:51:29.003826",
+    "answered": false
+  },
+  {
+    "question": "What are the key characteristics of social psychology?",
+    "topic": "social psychology",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:51:29.003856",
+    "answered": false
+  },
+  {
+    "question": "How is cultural psychology formed or developed?",
+    "topic": "cultural psychology",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:52:44.712926",
+    "answered": false
+  },
+  {
+    "question": "What are the underlying mechanisms of advanced behavior?",
+    "topic": "advanced behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:53:25.945701",
+    "answered": false
+  },
+  {
+    "question": "How does advanced behavior work?",
+    "topic": "advanced behavior",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:53:25.945751",
+    "answered": false
+  },
+  {
+    "question": "What processes are involved in curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:54:54.193407",
+    "answered": false
+  },
+  {
+    "question": "How would you define curiosity psychology and intrinsic motivation?",
+    "topic": "curiosity psychology and intrinsic motivation",
+    "category": "basic_definition",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-24T22:54:54.193436",
+    "answered": false
+  },
+  {
+    "question": "How is advanced communication applied in therapy or counseling?",
+    "topic": "advanced communication",
+    "category": "applications",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-25T20:12:56.586817",
+    "answered": false
+  },
+  {
+    "question": "How does advanced communication work?",
+    "topic": "advanced communication",
+    "category": "mechanisms",
+    "complexity": 1.0,
+    "related_topic": null,
+    "generated_at": "2025-07-25T20:12:56.586840",
+    "answered": false
+  }
+]

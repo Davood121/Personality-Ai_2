@@ -1,0 +1,180 @@
+{
+  "search_history": [
+    {
+      "query": "artificial intelligence",
+      "type": "general",
+      "timestamp": "2025-07-24T22:33:14.280701",
+      "sources_found": 5,
+      "confidence": 0.85
+    },
+    {
+      "query": "machine learning algorithms",
+      "type": "technical",
+      "timestamp": "2025-07-24T22:33:24.420172",
+      "sources_found": 3,
+      "confidence": 0.9
+    },
+    {
+      "query": "quantum computing",
+      "type": "academic",
+      "timestamp": "2025-07-24T22:33:35.071793",
+      "sources_found": 2,
+      "confidence": 0.925
+    },
+    {
+      "query": "python programming",
+      "type": "code",
+      "timestamp": "2025-07-24T22:33:37.333924",
+      "sources_found": 2,
+      "confidence": 0.9
+    },
+    {
+      "query": "climate change",
+      "type": "news",
+      "timestamp": "2025-07-24T22:33:39.331870",
+      "sources_found": 1,
+      "confidence": 0.6
+    },
+    {
+      "query": "advanced English vocabulary",
+      "type": "general",
+      "timestamp": "2025-07-24T22:47:05.663204",
+      "sources_found": 4,
+      "confidence": 0.8375
+    },
+    {
+      "query": "effective communication skills",
+      "type": "general",
+      "timestamp": "2025-07-24T22:47:28.288455",
+      "sources_found": 4,
+      "confidence": 0.8375
+    },
+    {
+      "query": "What is artificial intelligence? advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:47:57.867566",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "How does quantum computing work? advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:48:14.192321",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "Tell me about machine learning algorithms advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:48:33.443210",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "advanced English vocabulary",
+      "type": "general",
+      "timestamp": "2025-07-24T22:50:26.367961",
+      "sources_found": 4,
+      "confidence": 0.8375
+    },
+    {
+      "query": "effective communication skills",
+      "type": "general",
+      "timestamp": "2025-07-24T22:50:40.392379",
+      "sources_found": 4,
+      "confidence": 0.8375
+    },
+    {
+      "query": "What is artificial intelligence? advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:51:00.940610",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "How does quantum computing work? advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:51:22.374447",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "Tell me about machine learning algorithms advanced vocabulary terminology",
+      "type": "general",
+      "timestamp": "2025-07-24T22:51:44.825519",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "nature_element identification characteristics visual features",
+      "type": "general",
+      "timestamp": "2025-07-25T19:18:02.289969",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "sky_or_water identification characteristics visual features",
+      "type": "general",
+      "timestamp": "2025-07-25T19:18:17.937809",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "introduction artificial intelligence explanation tutorial",
+      "type": "educational",
+      "timestamp": "2025-07-25T19:33:02.954375",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "site:youtube.com https://www.youtube.com/watch?v=aircAruvnKk",
+      "type": "general",
+      "timestamp": "2025-07-25T20:03:16.105278",
+      "sources_found": 0,
+      "confidence": 0.0
+    },
+    {
+      "query": "Unknown Video explanation tutorial",
+      "type": "educational",
+      "timestamp": "2025-07-25T20:03:37.114580",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "scientific discoveries explained tutorial educational",
+      "type": "educational",
+      "timestamp": "2025-07-25T20:04:19.288783",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "How is advanced communication applied in therapy or counseling?",
+      "type": "general",
+      "timestamp": "2025-07-25T20:13:21.868641",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    },
+    {
+      "query": "How does advanced communication work?",
+      "type": "general",
+      "timestamp": "2025-07-25T20:14:12.380108",
+      "sources_found": 4,
+      "confidence": 0.8342105263157894
+    },
+    {
+      "query": "site:youtube.com https://youtu.be/0rinumt3nc4?si=mtw-izjd81nt0xvi",
+      "type": "general",
+      "timestamp": "2025-07-26T12:27:23.446583",
+      "sources_found": 0,
+      "confidence": 0.0
+    },
+    {
+      "query": "Unknown Video explanation tutorial",
+      "type": "educational",
+      "timestamp": "2025-07-26T12:27:40.248446",
+      "sources_found": 3,
+      "confidence": 0.8166666666666667
+    }
+  ],
+  "last_updated": "2025-07-26T12:27:40.250301"
+}
